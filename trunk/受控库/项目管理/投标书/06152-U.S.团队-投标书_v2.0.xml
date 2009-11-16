@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.11" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《投标书》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-E7V-Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><投标书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态></文件状态>
+			<文件标识></文件标识>
+			<当前版本></当前版本>
+			<作者>
+				<姓名>刘大伟</姓名>
+				<学号>0615233</学号>
+				<团队>U.S.团队</团队>
+			</作者>
+			<完成日期></完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+		</引言>
+	</首部>
+	<文件编号>YN-OATP-Tender v2.0</文件编号>
+	<投标单位>
+		<单位>
+			<名称>北信互联网络股份公司</名称>
+			<签章><div xmlns="http://www.w3.org/1999/xhtml">北信互联网络</div>
+<div xmlns="http://www.w3.org/1999/xhtml">股份公司</div></签章>
+		</单位>
+		<负责人>
+			<姓名>刘大伟</姓名>
+			<职务>项目经理</职务>
+			<签章>刘大伟</签章>
+		</负责人>
+		<联系方式>
+			<联系人>刘大伟</联系人>
+			<电话>15901123593</电话>
+			<传真>010-82426679</传真>
+		</联系方式>
+	</投标单位>
+	<投标日期>2009-09-02</投标日期>
+	<承包方式>工程施工方式采用总包，工程结算方式采用总标价一次包死</承包方式>
+	<投标工程标价>
+		<总标价>30万</总标价>
+		<单项标价>软件开发 24万; 系统软件购置 3万; 人员培训 ３万</单项标价>
+	</投标工程标价>
+	<工程周期>
+		<开工>2009-09-07</开工>
+		<竣工>2009-12-31</竣工>
+		<总工期>3个月零3周</总工期>
+	</工程周期>
+	<工程质量>软件安全性极佳，运行流畅，实时性好，界面人性化，占用内存较少。</工程质量>
+	<反要约条件>工程款分两部分（预付款与剩余款项）付齐，其中预付款应与软件开始开发前三天到款，剩余款项待软件验收后付齐。</反要约条件>
+	<招标单位意见></招标单位意见>
+	<公证部门意见></公证部门意见>
+	<附件>
+		<分项报价明细表><div xmlns="http://www.w3.org/1999/xhtml">分项报价表格式：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">序号    名称    　　　说明    　　　金额    　　　　总计    　　　　　　　　备注</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1    软件开发          　　　　　　24万　　　　　　２４万</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2    系统软件购置      　　　　　　3万          　 ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3    人员培训          　　　　　　3万　　　　　　  ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">合计：30万</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">以上价格表单位均为RMB元</div></分项报价明细表>
+		<材料设备报价明细表></材料设备报价明细表>
+		<法定代表人授权书><div xmlns="http://www.w3.org/1999/xhtml">法定代表人授权书格式<br/>法定代表人授权书<br/>本授权书声明:注册于北京市朝阳区南磨房路37号的<font size="-1"><font style="BACKGROUND-COLOR: #fff"><font color="#ff0000" face="Arial">中都国脉(北京)资产评估有限公司</font></font></font>的<span class="right">陈立昆</span>代表本公司授权北信互联网络股份有限公司的刘大伟为本公司的合法代理人,就美味饭店点餐系统项目的投标,以本公司名义处理一切与之有关的事务.<br/>本授权书于2009 年 8月 25日签字生效, 特此声明.<br/>竞标公司名称:北信互联网络股份有限公司<br/>(盖章)<br/>法定代表人签章:<span class="right">陈立昆</span><br/>公司地址:北京市朝阳区南磨房路37号<br/>联系电话:010－51900962</div>
+<div xmlns="http://www.w3.org/1999/xhtml">传真号码:010－51900967</div>
+<div xmlns="http://www.w3.org/1999/xhtml">邮    箱：<a href="mailto:CAP@sinocap.com.cn">CAP@sinocap.com.cn</a><br/>被授权人签章:刘大伟</div>
+<div xmlns="http://www.w3.org/1999/xhtml">被授权人手机:15901123593</div>
+<div xmlns="http://www.w3.org/1999/xhtml">被授权人e-mail: <a href="mailto:liudave2006@hotmail.com">liudave2006@hotmail.com</a></div></法定代表人授权书>
+		<资质证明文件><div xmlns="http://www.w3.org/1999/xhtml">投标商资格简表<br/>企业名称<u> 北信互联网络股份有限公司    </u>    企业性质<u>  民营企业      <br/></u>地址<u>      北京市北四环中路35号   </u><br/>法人代表<u>   刘大伟              </u>    邮编<u>  100085           <br/></u>电话<u>   15901123593             </u>    传真<u>   010-82426679      <br/></u>总产值<u>    五百万                </u>    电报<u>                   <br/></u>流动资产<u>   三百万               </u>    固定资产<u>   两百万       <br/></u>长期债务<u>   无                   </u>    流动债务<u>   十万         </u>  <br/>高级技经人员<u>   十二             </u>     研究设计人员<u>           <br/></u>工人人数 <u>      三               </u>    中级技经人员<u>            </u></div></资质证明文件>
+		<保证金保函><div xmlns="http://www.w3.org/1999/xhtml">投标保证金保函</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">致：张胜利                 （招标人）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">  本保函是我行 北京银行 （银行全称）为   北信互联网络股份公司 （投标人全称）参加贵处组织的美味饭店点餐系统  项目 EP20090615227  （招标编号）招标的投标所作的担保。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    1、 保证金额（大写）    陆千       元（投标总金额的2%）。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    2、在担保期内，我行在收到贵方通知，说明下列事实中的任何一点时，即按要求无条件地向贵方支付保证金：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    a、投标人在开标后撤销投标；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    b、投标人在收到中标通知书后，未能按中标通知书规定的时间、地点与买方签订中标经济合同；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    c、投标人在中标后未按招标文件要求支付中标服务费；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、本保函自开标之日起生效，直到投标文件有效期满后30天，或贵方与投标人书面约定的延长期后30天内有效。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">4、若没有本保函第2项所列情况发生，本保函有效期满后自动失效。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">  银行全称： 北京银行                开具人： <comment></comment><font style="BACKGROUND-COLOR: #fff" face="Arial">闫冰竹</font>               </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（公章）     北京银行                （签字）<font style="BACKGROUND-COLOR: #fff" face="Arial">闫冰竹</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">      </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">日期：2009-08-20</div></保证金保函>
+		<投标人情况表><div xmlns="http://www.w3.org/1999/xhtml">投标人情况声明</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">1、名称及概况：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><sup></sup> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（1）       投标人名称：<u>       北信互联网络股份公司            </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><u></u> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（2）       总部地址：  <u>      北京市北四环中路35号         </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><u></u> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">            电传/传真/电话号码：<u> 010-82426679              </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（3）       成立和/或注册日期：<u>  2006-10-10               </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（4）       实收资本： <u>              五百万               </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（5）       近期资产负债表（到  2009   年 9    月 2    日止）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">        ①固定资产：<u>         两百万                        </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">        ②流动资产：<u>         三百万                        </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　　　③长期负债：<u>         无                            </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　　　④流动负债：<u>        十万                           </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><u></u> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　　　⑤净值：   <u>        四百九十万                      </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（6）        主要负责人姓名：（可选填）<u>  刘大伟     </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><br/>2、本投标人生产投标货物的经验（包括年限、项目业主、额定能力、商业运营的起始日期等）：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、近三年本公司主要国内、外主要客户的名称地址，项目名称：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（1）         出口销售</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）<u>  美国纽约国际集团   </u>（项目名称） <u> 证券公司网站      </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）<u>  达芙妮  德国    </u>（项目名称）<u>  加盟平台     </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（2）         国内销售</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）<u><font face="Courier New">米其林(中国)</font></u>（项目名称）<u>  <font face="Courier New">物流系统</font> </u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）<u> <font face="Courier New">爱玛客餐饮集团</font> </u>（项目名称）<u> 移动<font face="Courier New">点餐系统</font></u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）<u> <font face="Courier New"><font face="Courier New">影视集团公司(</font></font></u>项目名称）<u>  <font face="Courier New"><font face="Courier New">播客系统</font></font></u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">5、近三年的年营业额</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    年   份           国     内            出    口          总     额</div>
+<div xmlns="http://www.w3.org/1999/xhtml">    <u> 2006  </u>          <u>   五十万 </u>            <u>  五十万 </u>         <u> 一百万 </u> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    <u> 2007  </u>          <u>  一百万  </u>            <u> 两百万 </u>           <u> 三百万</u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    <u> 2008  </u>          <u>一百五十万 </u>           <u>  两百万 </u>          <u>三百五十万</u></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><u></u> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">6.<font face="Courier New">我们的技术团队在php，.net，jsp等领域有着深厚的功底,长期从事B/S和C/S相关模式系统的开发和创新。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">兹证明上述声明是真实、正确的、并提供了全部能提供的资料和数据，我们同意遵照贵方要求出示有关证明文件。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">投标人名称（公章）：  北信互联网络股份公司           </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">法人授权代表（签字）：  刘大伟        </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">日期： 2009-09-02</div></投标人情况表>
+		<投标人财务状况表>一、定额流动资产：三百万元<br xmlns="http://www.w3.org/1999/xhtml"/>二、定额流动资产平均余额： 五十万元<br xmlns="http://www.w3.org/1999/xhtml"/>三、固定资产（原值/净值）：二百万元<br xmlns="http://www.w3.org/1999/xhtml"/>四、经营资金<br xmlns="http://www.w3.org/1999/xhtml"/> 1.固定资金： 二百万元<br xmlns="http://www.w3.org/1999/xhtml"/> 2.流动资金： 三百万元<br xmlns="http://www.w3.org/1999/xhtml"/> 3.用于周转的自有资金： 五十万元<br xmlns="http://www.w3.org/1999/xhtml"/>五、货币资金： 一百万元<br xmlns="http://www.w3.org/1999/xhtml"/>六、应收及预付款： 二十万元<br xmlns="http://www.w3.org/1999/xhtml"/>七、预收及预付款： 一百万元<br xmlns="http://www.w3.org/1999/xhtml"/>八、实际完成年产值： 八百万元<br xmlns="http://www.w3.org/1999/xhtml"/>九、实现利润总额： 五十万元<br xmlns="http://www.w3.org/1999/xhtml"/>十、反映企业管理水平指标<br xmlns="http://www.w3.org/1999/xhtml"/> 1.资金利用率： 70%<br xmlns="http://www.w3.org/1999/xhtml"/> 2.流动资金周转率： 3次<br xmlns="http://www.w3.org/1999/xhtml"/> 3.企业偿还能力：良好</投标人财务状况表>
+		<投标人专业技术人员一览表><div style="LINE-HEIGHT: 150%; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">专业技术人员总人数：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 469.5pt; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; BORDER-TOP-STYLE: none; TABLE-LAYOUT: fixed; BORDER-LEFT-STYLE: none" class="MsoNormalTable msoUcTable" tabIndex="-1" border="1" cellPadding="0" width="588">
+<colgroup>
+<col style="WIDTH: 41px"/>
+<col style="WIDTH: 55px"/>
+<col style="WIDTH: 30px"/>
+<col style="WIDTH: 75px"/>
+<col style="WIDTH: 115px"/>
+<col style="WIDTH: 66px"/>
+<col style="WIDTH: 64px"/>
+<col style="WIDTH: 54px"/>
+<col style="WIDTH: 69px"/>
+<col style="WIDTH: 57px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify">序号</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">姓名</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">性别</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">现任职务</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">持何种资格证件</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">发证时间</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">技术等级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">本专业工作总年限</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">外语能力</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">备注</div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">1</div></td>
+<td noWrap="1" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">刘大伟</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">项目经理</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">项目管理师</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 15pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">2</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">孙岩</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">开发组组长</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">软件工程师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">3</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">陆鹏辰</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">系统分析员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">系统架构师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">4</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">穆瑞彬</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">程序员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">软件开发工程师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">5</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">李斌　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">程序员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">高级程序员　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">6</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">吴敏</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">女</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">文档管理员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">办公应用工程师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">7</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">王超</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">测试员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">软件测试师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 16.5pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">8</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">董秀丽</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">女</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">质保组组长</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">系统集成工程师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 15pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">9</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">张沛</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">测试员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">软件测试师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 15pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">10</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">张达</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">文档管理员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">高级工程师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 16.5pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">11</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">刘群辉</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">配置组组长</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">高级工程师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">２００6　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">３　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">５　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">６级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 16.5pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">12</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">欧泽周　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">男　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">程序员</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">网络开发工程师　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">2 0 06　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">3　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">5　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">6级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">13</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">14</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">15</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">16</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">17</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">18</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">19</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">20</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr></tbody></table></div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">注：可自行制表，但格式不得变更</div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">从业人员及技术资格须附任职资格证书或技术工人等级证书的复印件，以及获得证书的工作人员为本单位员工的证明材料</div>
+<div style="MARGIN-TOP: 0cm; TEXT-INDENT: 204pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">投标人名称(盖章)：北信互联网络股份公司</div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="MARGIN-TOP: 0cm; TEXT-INDENT: 204pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">授权代表签字盖章：北京银行</div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">                                       日           期：<u> 2009 </u>年<u> 09  </u>月<u> 02  </u>日</div></投标人专业技术人员一览表>
+		<其他><div xmlns="http://www.w3.org/1999/xhtml">美味饭店点餐系统开发项目</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1.系统目标与功能</div>
+<div xmlns="http://www.w3.org/1999/xhtml">  我公司对项目的理解，设计的基本思想请参考《项目建议书》</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.进度计划</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 2.1 需求调查的设计 9.7--9.27（3周）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 2.2 系统开发 9.28--11.28（8周）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 2.3 内部测试 10.08-12.05（8周）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 2.4 调试运行 12.5--12.22（2周）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 2.5 系统验收 12.23--12.28(1周)</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.技术方案</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 3.1 操作系统 Windows XP</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 3.2 开发工具 Microsoft Visual Studio 2005</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> 3.3 开发软件</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   3.3.1 测试软件 QuickTest.pro.8.2</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   3.3.2 配置管理 SVN1.4</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   3.3.3 文档工具 Microsoft Offices 2007</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   3.3.4 项目管理 Microsoft project 2003</div></其他>
+	</附件>
+</投标书>

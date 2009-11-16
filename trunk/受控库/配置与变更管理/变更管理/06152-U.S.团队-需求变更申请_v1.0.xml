@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.2" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《需求变更申请》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-02Hdcg-Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><需求变更申请 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识></文件标识>
+			<当前版本>1.0</当前版本>
+			<作者>
+				<姓名>张胜利</姓名>
+				<学号>0615227</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-11-07</完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题></标题>
+	<申请人>张胜利</申请人>
+	<申请日期>2009-11-07</申请日期>
+	<阶段名称>详细设计阶段</阶段名称>
+	<需求变更文件>需求变更表格</需求变更文件>
+	<变更内容及其理由><div xmlns="http://www.w3.org/1999/xhtml"><span style="FONT-SIZE: 10.5pt"><font face="宋体">内容：增加一个打印凭条的功能。包括菜品单价，服务员号，消费总价等一些消费者消费情况信息。</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span style="FONT-SIZE: 10.5pt"><font face="宋体">理由：以便顾客能够更好的了解自己的消费情况</font></span></div></变更内容及其理由>
+	<验证>
+		<验证意见>此功能能够实现，同意此申请。</验证意见>
+		<验证人>刘大伟</验证人>
+		<验证日期>2009-11-06</验证日期>
+	</验证>
+	<签字>
+		<SCCB>刘大伟、刘群辉、董秀丽</SCCB>
+		<填表人>张胜利</填表人>
+	</签字>
+</需求变更申请>
