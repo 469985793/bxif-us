@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.3" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《质量保证计划》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-X-M1QB-Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><质量保证计划 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BXIF-SQAP-v1.0</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>董秀丽</姓名>
+				<学号>0615202</学号>
+				<团队>U.S.团队</团队>
+			</作者>
+			<完成日期>2009-09-10</完成日期>
+			<版本更新信息>v1.0 2009-09-10</版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员><div xmlns="http://www.w3.org/1999/xhtml">项目管理人员：刘大伟、刘群辉</div>
+<div xmlns="http://www.w3.org/1999/xhtml">质量保证人员：董秀丽、张胜利</div>
+<div xmlns="http://www.w3.org/1999/xhtml">技术负责人员：孙岩、刘大伟</div>
+<div xmlns="http://www.w3.org/1999/xhtml">系统设计人员：陆鹏辰</div>
+<div xmlns="http://www.w3.org/1999/xhtml">项目开发人员：孙岩、李斌、穆瑞斌、欧泽周</div></使用人员>
+			<编写目的><div xmlns="http://www.w3.org/1999/xhtml">   本计划的目的在于对所开发的美味饭店点餐系统规定各种必要的质量保证措施，以保证所交付的美味饭店点餐系统能够满足项目招标书中规定的各项需求，以及满足本项目总体组制定的且经领导小组批准的该软件系统需求规格说明书中规定的各项具体需求。同时确保在软件开发工作的各个阶段和各个方面都能认真采取各项措施来保证和提高软件的质量。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   软件开发单位在开发美味饭店点餐系统所属的各个子系统时，都应该执行本计划中的有关规定，但可根据各自的情况对本计划作适当的剪裁，以满足特定的质量保证要求，裁剪的计划必须经总体组批准。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   本计划所针对的美味饭店点餐系统项目包括六个子系统：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   1）<span><font face="宋体">用户点餐子系统：用于点餐处理（包括点菜、加菜、退菜等）、订座处理、呼叫处理（包括结账等）、查询消费处理（<span><font face="宋体">包括查询已选菜样,价格以及厨师编号</font></span>）。</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span>   2）<span><font face="宋体">服务台子系统:用于</font></span></span><span><font face="宋体">订座处理、</font></span><span><font face="宋体">点菜及计费处理、</font></span><span><font face="宋体">呼叫接受处理。</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span>   3）<span><font face="宋体">后厨子系统：用于<span><font face="宋体">点菜确认(确认是否能够做菜,以及厨师编号)</font></span></font></span></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><span><font face="宋体"><span>   4）<span><font face="宋体">数据库子系统：用于<span><font face="宋体">完成档案数据的备份和导出工作以及操作员权限管理</font></span></font></span></span></font></span></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><span><font face="宋体"><span><span><font face="宋体"><span>   5）<span><font face="宋体">库存管理系统：<span><font face="宋体">在点餐后由系统自动根据此菜的配料表核减相应原料的库存数量</font></span></font></span></span></font></span></span></font></span></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml">   6）<span><font style="FONT-SIZE: 12pt" face="宋体"><font size="2">总经理查询/决策系统：<span><font face="宋体">老总可以实现餐饮企业的轻松管理，随时了解餐厅的经营情况</font></span></font></font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font color="#ff0000"></font> </div></编写目的>
+			<背景><div xmlns="http://www.w3.org/1999/xhtml">   在处于信息化和自动化高速发展的的中国,巨大的餐饮业也自然而然地要进入自动化的时代,原先的服务员服务顾客点菜的方式极大地浪费了人力资源.为适应中国的信息化建设,构建现代化的和谐社会,特需开发新的餐饮系统,以适应新的环境，使<font face="宋体">进一步提高处理能力和服务质量，为顾客提供优良的服务。</font></div></背景>
+			<定义与缩写>
+				<术语>SRR  PDR  SV  VR  quality assurance  software quality</术语>
+				<解释><div xmlns="http://www.w3.org/1999/xhtml">计划用到的一些术语的定义参照GB/T 11457和GB/T1 2505</div>
+<div xmlns="http://www.w3.org/1999/xhtml">软件需求评审（SRR）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">概要设计评审（PDR）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">软件验证（SV）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">确认评审（VR）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">质量保证（quality assurance）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">软件质量（software quality）</div></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目>GB/T 11457 软件工程术语</条目><条目>GB 8566 计算机软件开发规范</条目><条目>GB 8567 计算机软件产品开发文件编制指南</条目><条目>GB/T 12504 计算机软件质量保证计划规范</条目><条目>GB/T 12505 计算机软件配置管理计划规范</条目><条目>美味饭店点餐系统配置管理计划</条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<过程与产品质量检查计划>
+		<过程域>
+			<名称>系统规划</名称>
+			<工作成果><div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">软件项目计划</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">配置管理计划</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">质量保证计划</font></span></div></工作成果>
+			<检查时间>2009-09-11</检查时间>
+			<质保人员>董秀丽</质保人员>
+			<检查人员>刘大伟</检查人员>
+		</过程域>
+	<过程域>
+									<名称>需求开发</名称>
+									<工作成果><span xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">需求规格说明书</font></span></工作成果>
+									<检查时间>2009-09-28</检查时间>
+									<质保人员>董秀丽</质保人员>
+									<检查人员>刘大伟 孙岩</检查人员>
+								</过程域><过程域>
+									<名称>设计</名称>
+									<工作成果><div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">概要设计说明书</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">数据库设计说明书</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">模块设计说明书</font></span></div></工作成果>
+									<检查时间>2009-10-15</检查时间>
+									<质保人员>董秀丽</质保人员>
+									<检查人员>孙岩 刘群辉</检查人员>
+								</过程域><过程域>
+									<名称>实现</名称>
+									<工作成果><span xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">产品代码（源程序）</font></span></工作成果>
+									<检查时间>2009-11-28</检查时间>
+									<质保人员>董秀丽</质保人员>
+									<检查人员>孙岩 刘群辉</检查人员>
+								</过程域><过程域>
+									<名称>系统集成</名称>
+									<工作成果><span xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">测试报告</font></span></工作成果>
+									<检查时间>2009-12-20</检查时间>
+									<质保人员>董秀丽</质保人员>
+									<检查人员>刘大伟 孙岩 刘群辉</检查人员>
+								</过程域><过程域>
+									<名称>提交</名称>
+									<工作成果><span xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">验收报告</font></span></工作成果>
+									<检查时间>2009-12-25</检查时间>
+									<质保人员>董秀丽</质保人员>
+									<检查人员>刘大伟</检查人员>
+								</过程域></过程与产品质量检查计划>
+	<技术评审计划>
+		<评审内容>
+			<名称>软件项目计划</名称>
+			<方式>FTR</方式>
+			<评审时间>2009-09-12</评审时间>
+			<质保人员>董秀丽</质保人员>
+			<评审人员>刘大伟 刘群辉</评审人员>
+		</评审内容>
+	<评审内容>
+									<名称>配置管理计划</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-09-12</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 刘群辉</评审人员>
+								</评审内容><评审内容>
+									<名称>质量保证计划</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-09-12</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 刘群辉</评审人员>
+								</评审内容><评审内容>
+									<名称>需求规格说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-09-29</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 刘群辉</评审人员>
+								</评审内容><评审内容>
+									<名称>概要设计说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-10-16</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>孙岩 刘群辉</评审人员>
+								</评审内容><评审内容>
+									<名称>数据库设计说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-10-16</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>孙岩 刘群辉</评审人员>
+								</评审内容><评审内容>
+									<名称>模块设计说明书</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-10-16</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>孙岩 刘群辉</评审人员>
+								</评审内容><评审内容>
+									<名称>用户点餐子系统源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2009-10-20</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>服务台子系统源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2009-10-28</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>后厨子系统源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2009-11-05</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>数据库子系统源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2009-11-13</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>库存管理系统源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2009-11-20</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>决策系统源代码</名称>
+									<方式>ITR</方式>
+									<评审时间>2009-11-27</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>集成测试报告</名称>
+									<方式>ITR</方式>
+									<评审时间>2009-12-13</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>系统测试报告</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-12-18</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容><评审内容>
+									<名称>验收测试报告</名称>
+									<方式>FTR</方式>
+									<评审时间>2009-12-25</评审时间>
+									<质保人员>董秀丽</质保人员>
+									<评审人员>刘大伟 孙岩 </评审人员>
+								</评审内容></技术评审计划>
+	<产品测试计划>
+		<测试内容>
+			<测试类型>单元测试</测试类型>
+			<测试时间>2009-10-08</测试时间>
+			<测试计划><span xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">单元测试计划</font></span></测试计划>
+			<质保人员>董秀丽</质保人员>
+			<测试人员>王超</测试人员>
+		</测试内容>
+	<测试内容>
+									<测试类型>集成测试</测试类型>
+									<测试时间>2009-12-05</测试时间>
+									<测试计划><span xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">集成测试计划</font></span></测试计划>
+									<质保人员>董秀丽</质保人员>
+									<测试人员>张沛 张胜利</测试人员>
+								</测试内容><测试内容>
+									<测试类型>系统测试</测试类型>
+									<测试时间>2009-12-15</测试时间>
+									<测试计划><span xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">系统测试计划</font></span></测试计划>
+									<质保人员>董秀丽</质保人员>
+									<测试人员>张沛 张胜利</测试人员>
+								</测试内容><测试内容>
+									<测试类型>验收测试</测试类型>
+									<测试时间>2009-12-23</测试时间>
+									<测试计划><div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">验收测试计划</font></span><span style="FONT-SIZE: 12pt"></span></div></测试计划>
+									<质保人员>董秀丽</质保人员>
+									<测试人员>张沛 张胜利</测试人员>
+								</测试内容></产品测试计划>
+	<质量目标><ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" xmlns="http://www.w3.org/1999/xhtml">
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><span style="FONT-SIZE: 12pt"></span><span><font face="宋体">基于需求的测试覆盖率为100%。</font></span></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><span></span><span><font face="宋体">软件功能测试用例通过率不低于95%。</font></span></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><span></span><span><font face="宋体">每个阶段评审中发现的问题都已解决或等到妥善处理。</font></span></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><span></span><span><font face="宋体">产品验收时不存在严重问题及缺陷。</font></span><span></span></li></ul>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">注：严重问题指导致系统或功能模块不能正常工作的问题</font></span></div></质量目标>
+	<质量保证活动><div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 28pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">质量保证的主要内容包括过程评审和产品审计，目的是确保在项目进展过程中的各个方面采取各项措施来保证和提高给用户的产品质量。评审方式分为正式技术评审（FTR）和非正式技术评审（ITR）。正式技术评审（FTR）采用评审会议形式；非正式技术评审（ITR）采用文件传阅形式。正式技术评审必须形成评审记录。质量保证人员将发现的问题和解决情况在例会上通报，对未解决的问题进行讨论，对不能解决的问题提交项目经理。</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">    每周二下午进行一次例会，对配置管理进行审核，确认配置管理工作是否正常进行<font style="FONT-SIZE: 12pt">。</font></font></span></div></质量保证活动>
+	<记录的收集维护和保存><div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">项目组应当保留项目执行过程中形成的各类文档、周报、会议记录（包括对于项目中问题的处理方案及情况），对重要文档质量保证人员定期进行审计。</font></span><span style="FONT-SIZE: 12pt"></span></div></记录的收集维护和保存>
+</质量保证计划>

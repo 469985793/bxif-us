@@ -1,0 +1,790 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution PIVersion="1.0.0.0" name="urn:schemas-microsoft-com:office:infopath:-K7V-Qo:" language="zh-cn" href="file:///D:\软件项目管理实践\《招标书》模板.xsn" solutionVersion="1.0.0.15" productVersion="11.0.8165" ?><?mso-application progid="InfoPath.Document"?><招标书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识></文件标识>
+			<当前版本>3.0</当前版本>
+			<作者>
+				<姓名>张胜利</姓名>
+				<学号>0615227</学号>
+				<团队>U.S.团队</团队>
+			</作者>
+			<完成日期>2009-09-01</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">1.0 2009-08-30</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.0 2007-09-01</div></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景><div xmlns="http://www.w3.org/1999/xhtml">由于饭店初建，尚无自动点餐系统。为了紧跟行业发展形势本饭店现准备开发一套仅限本公司的国内点餐系统。</div></背景>
+			<定义与缩写>
+				
+			<术语>招标方</术语><解释>美味饭店</解释><术语>投标方</术语><解释>向招标方提交投标文件的制造商或供应商</解释></定义与缩写>
+			<参考资料>
+				<条目></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<文件编号>EP20090615227</文件编号>
+	<招标邀请>
+		<说明><div xmlns="http://www.w3.org/1999/xhtml">在处于信息化和自动化高速发展的的中国,巨大的餐饮业也自然而然地要进入自动化的时代,原先的服务员服务顾客点菜的方式极大地浪费了人力资源.为适应中国的信息化建设,构建现代化的和谐社会,特需开发新的餐饮系统，诚邀各软件公司对本项目进行投标.</div></说明>
+		<招标内容>美味饭店点餐系统</招标内容>
+		<标书售价>￥500.00（标书售出后不退）</标书售价>
+		<投标截止时间>2009-09-02</投标截止时间>
+		<开标时间>2007-09-04</开标时间>
+		<招标单位>
+			<联系人></联系人>
+			<电话></电话>
+			<传真></传真>
+			<单位></单位>
+			<日期></日期>
+		</招标单位>
+	</招标邀请>
+	<投标须知>
+		<说明><div xmlns="http://www.w3.org/1999/xhtml">本章详细说明招标方式，请投标方仔细阅读，以免投标失败</div></说明>
+		<招标方式><div xmlns="http://www.w3.org/1999/xhtml">招标方式采用公开招标，一次报价和评标方式</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.1 由投标方提供招标所需文件，并进行详细报价和阐述；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.2 招标方对投标文件进行综合评价，选出最优的投标商；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.3 招标方与被选出投标方再次对投标方的投标信息进行评定，并确认；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.4 美味饭店招投标中心确认后发出中标通知书；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.5 关于未中标投标书将征求投标方意见予以销毁或退回。</div></招标方式>
+		<投标商要求><div xmlns="http://www.w3.org/1999/xhtml">2.3.1 必须具有独立法人资格、有效的工商营业执照、税务登记证书及具有软件开发经营范围的企业法人；<br/>2.3.2 具有开发相应系统的开发经验，所提供的产品性能可靠、质量优良；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.3.3 具有开发C/S模式系统和B/S 模式系统的经验<br/>2.3.4 有稳定的技术维修队伍，确保售后服务承诺能圆满兑现。</div></投标商要求>
+		<投标文件要求><div xmlns="http://www.w3.org/1999/xhtml">投标方需要提供完整、正是、有效的投标书，以及项目计划。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.4.1 投标文件的组成和格式<br/>　2.4.1.1 投标文件应包括下列部分：<br/>     1)系统的设计方案；<br/>     2)项目实施建议和工程进度计划；<br/>     3)质量控制方案；<br/>     4)售后服务承诺书。<br/>　2.4.2 投标文件的编写<br/>　2.4.2.1 投标商必须按照本招标文件的顺序对本招标文件的每一项要求给予实质性的响应。否则其投标将被拒绝。<br/>　2.4.2.2 投标商对本招标文件的每一项要求所给予的响应必须是唯一的。否则将视为不响应。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">  2.4.2.3 投标单位必须提交投标确认书（盖公章），表明认可我公司本次招标书上的内容，并表明对所提供的投标书中内容负责。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">  2.4.2.4 售后服务：投标单位须提供详尽的、切实可行的质保、售后服务承诺书。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">  2.4.2.5 投标书请密封并加盖单位公章，一式二份（正本、副本各一套）。</div></投标文件要求>
+		<名词解释>
+			<招标方></招标方>
+			<投标方></投标方>
+		</名词解释>
+	</投标须知>
+	<招标项目要求>
+		<项目系统现状目标与功能要求><div xmlns="http://www.w3.org/1999/xhtml">本章描述了项目系统的现状以及总体目标,并提出了本次项目招标应实现的业务内容及其功能。投标商应予以充分注意，并提出实现系统目标和各项业务功能的解决方案。<br/>  3.1.1 项目系统现状<br/>   美味饭店暂无点餐系统。<br/>  3.1.2 总体目标<br/>   建立美味饭店点餐系统；相应数据的建库。<br/>  3.1.3 要求：<br/>   3.1.3.1建立美味点餐系统，包括点菜系统、结账系统、账单查询、退菜、加菜、搜索功能、订座系统、热门推荐、呼叫服务员。<br/>   3.1.3.2后厨提供的信息必须及时地反映到前台。点餐系统的菜单必须无差错的存储在美味饭店点餐系统的临时数据库中。对数据库中的数据必须进行及时正确的更新。<br/>   3.1.3.3完成相应的基础数据采集、加工、处理，工程技术资料的整理和建库等工作。<br/>   3.1.3.4饭店的管理员拥有对饭店点餐系统菜单数据库、菜的信息库、消费账单临时数据库的管理与修改权限。前台服务员只拥有消费账单临时数据库的管理与修改权限。具体要求请咨询我公司相关人员。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">  3.1.4 安全需求：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   3.1.4.1 安全级别低；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">   3.1.4.2*主要安全内容为顾客的消费信息，如消费金额等。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">*系统平台与开发工具：基于Windows操作系统。其他所需要的系统软件平台，开发工具不作限制。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">详细需求参见（附件A9）</div></项目系统现状目标与功能要求>
+		<招标内容及要求><div xmlns="http://www.w3.org/1999/xhtml">3.2.1投标内容：<br/> 3.2.1.1建立美味饭店点餐系统<br/>3.2.2投标商应完成以下工作：<br/> 3.2.2.1根据系统目标和功能描述，识别并给出系统需求。<br/> 3.2.2.2提出达到系统目标和完成系统功能的最佳途径。<br/>3.2.3工作要求：<br/> 3.2.3.1描述对项目的理解<br/> 投标商在招标文件中提出一套有效的解决模式和相应的软件设计思路，包括如下内容，并应提供足够的细节。<br/>  3.2.3.1.1美味饭店点餐系统开发项目<br/>   3.2.3.1.1.1系统目标和功能<br/>   3.2.3.1.1.2信息分类<br/>   3.2.3.1.1.3点菜业务处理模式<br/>   3.2.3.1.1.4界面描述<br/>  3.2.3.1.2数据入库<br/>   3.2.3.1.2.1数据流向<br/>   3.2.3.1.2.2项目各阶段进度计划表<br/>  3.2.3.1.3进度计划<br/>   3.2.3.1.3.1需求调查和设计<br/>   3.2.3.1.3.2系统开发<br/>   3.2.3.1.3.3调试、试运行<br/>   3.2.3.1.3.4系统验收<br/> 3.2.3.2技术方案<br/>  3.2.3.2.1软件系统方案，包括：<br/>   3.2.3.2.1.1操作系统<br/>   3.2.3.2.1.2开发工具软件<br/>   3.2.3.2.1.3应用软件<br/>  3.2.3.2.2系统集成方案<br/> 3.2.3.3交付物<br/>  3.2.3.3..1提交满足3.2.3.2要求的项目建议书</div></招标内容及要求>
+		<评价标准及要求>3.3.1评标原则和方法<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.1.1评委会将遵照公开、公平、公正的评标原则，严格按照招标文件的要求和条件进行评标，平等地对待所有投标方，择优定标。<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.1.2评委会将对投标书中的每个响应进行评价，检查其对招标书要求的符合程度并给出评分。<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.1.3综合以上评分，结合各投标方报价进行综合评价，产生综合评估价格。综合评估价格低者为优。<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.1.4本次招标合同将授予符合招标文件的要求，并且报价最合理，能提供最佳服务的投标者。<br xmlns="http://www.w3.org/1999/xhtml"/>3.3.2 评价标准<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.2.1类似项目的经验（20%）<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.2.2技术方案（40%）<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.2.3报价（30%）<br xmlns="http://www.w3.org/1999/xhtml"/> 3.3.2.4进度计划（10%）</评价标准及要求>
+	</招标项目要求>
+	<合同说明>
+		<合同专用条款><div xmlns="http://www.w3.org/1999/xhtml">甲方 :<br/>乙方 :</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">  （乙方）与（甲方）经招投标成功，签订以下合同:<br/>项目名称： <br/>合同金额：人民币 <br/>项目周期： <br/>开始时间： <br/>完成时间： <br/>联系人： <br/>一、 需方责任：<br/>1.1. 双方签订合同后十个工作日内，需方向供方支付预付款，并按合同规定分类分期地付款。<br/>1.2. 需方（包括个部门）在工程实施的各环节上应积极向供方提供相应的人力和环境配合，以保证乙方在软件的应用调研、开发测试、安装调试等阶段顺利地进行软件施工。<br/>二、 供方责任：<br/>2.1. 供方在收到需方的预付款后三个工作日内开始软件项目工程的实施。<br/>2.2. 供方按照"系统设计方案和软件功能描述、信息系统功能组成及描述"中所列的内容分别完成软件各功能模块的制作。<br/>2.3. 在软件系统正常运行后，供方提供相应源代码及相应技术文档。(进一步明确)<br/>2.4. 供方按照"系统服务范围和内容"分别提供本项目的系统服务。<br/>2.5. 供方在合同规定的维护期满后，有义务向需方提供有偿的后续技术支持。<br/>三、 验收标准：<br/>3.1. 供、需双方按照中标的投标文件中"验收标准"或双方认可的标准分别对平台软件、点菜系统软件功能、移交的程序和文件以及相关的系统服务进行验收。<br/>四、 其他责任：<br/>4.1. 供方在本合同中所提供给需方的软件源代码及其技术文档只能在需方的内部使用，需方不得将此次软件中的任何功能模块和技术资料提供给第三方。<br/>五、 本合同按中华人民共和国知识产权保护条例、计算机软件保护条例、经济合同法以及适用于本合同的有关法律条例执行。<br/>六、 因本合同引起的争议，供需双方应首先通过友好协商解决。如果在一方向另一方发出要求协商的书面通知后三十天内仍不能解决争议，则应依司法程序解决。<br/></div></合同专用条款>
+		<合同通用条款><div xmlns="http://www.w3.org/1999/xhtml"><br/>　　前言</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　1. 定义</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　2. 合同各方；陈述及保证</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　2.1 合同各方</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　2.2 陈述及保证</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　2.3 陈述不实的后果</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　3. [具体权利义务条款]</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　4. 合同期限</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　4.1 合同期限</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　4.2 合同期限的续展</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　5. 合同终止</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　5.1 合同终止</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　5.2 各方持续的义务</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　6. 保密义务</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　6.1 保密义务的范围</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　6.2 保密义务不适用的情形</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　6.3 保密制度</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　6.4 保密资料的归还</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　7. 违约</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　7.1 违约救济措施</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　7.2 责任限制</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　8. 不可抗力</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　8.1 不可抗力的定义</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　8.2 不可抗力的后果</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　9. 争议的解决</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　9.1 友好协商</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　9.2 仲裁</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　9.3 持续的权利和义务</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　9.4 裁决的执行</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　9.5 申请制止侵权、违约行为的权利</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　10. 适用法律</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11. 其他规定</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.1合同各方之间的独立关系</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.2合同拘束力的范围</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.3合同权利人范围</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.4修改</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.5合同内容保密</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.6禁止招揽对方雇员</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.7通知</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.8不放弃权利</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.9可转让性</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.10可分割性</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.11全部协议</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.12附录以及附件</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.13文本</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">　　11.14签</div></合同通用条款>
+		<合同格式>专用条款&lt;/br&gt;通用条款&lt;/br&gt;声明&lt;/br&gt;双方签字生效</合同格式>
+	</合同说明>
+	<附件>
+		<投标书格式>致：美味饭店招投标中心<br xmlns="http://www.w3.org/1999/xhtml"/>　　根据贵方为美味饭店点餐系统开发项目的投标邀请（招标编号: EP20090615227），本人代表投标方 （投标方名称） （企业编号）提交下述文件正本一份和副本五份。<br xmlns="http://www.w3.org/1999/xhtml"/>1) 投标书<br xmlns="http://www.w3.org/1999/xhtml"/>2) 方案说明</投标书格式>
+		<分项报价表格式><div xmlns="http://www.w3.org/1999/xhtml">分项报价表格式：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">序号    名称    说明    金额    总计    备注</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3</div>
+<div xmlns="http://www.w3.org/1999/xhtml">4</div>
+<div xmlns="http://www.w3.org/1999/xhtml">5</div>
+<div xmlns="http://www.w3.org/1999/xhtml">6</div>
+<div xmlns="http://www.w3.org/1999/xhtml">合计：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">以上价格表单位均为RMB元</div></分项报价表格式>
+		<法定代表人授权书格式>法定代表人授权书格式<br xmlns="http://www.w3.org/1999/xhtml"/>法定代表人授权书<br xmlns="http://www.w3.org/1999/xhtml"/>本授权书声明:注册于[<u xmlns="http://www.w3.org/1999/xhtml">注册地址</u>]的[<u xmlns="http://www.w3.org/1999/xhtml">资产评估公司名称</u>]的在下面签字的[<u xmlns="http://www.w3.org/1999/xhtml">法定代表人姓名,职务</u>]代表本公司授权[<u xmlns="http://www.w3.org/1999/xhtml">被授权人单位名称</u>]的在下面签字的[<u xmlns="http://www.w3.org/1999/xhtml">被授权人的姓名,职务</u>]为本公司的合法代理人,就[<u xmlns="http://www.w3.org/1999/xhtml">项目名称</u>]项目的投标,以本公司名义处理一切与之有关的事务.<br xmlns="http://www.w3.org/1999/xhtml"/>本授权书于 年 月 日签字生效, 特此声明.<br xmlns="http://www.w3.org/1999/xhtml"/>竞标公司名称:<br xmlns="http://www.w3.org/1999/xhtml"/>(盖章)<br xmlns="http://www.w3.org/1999/xhtml"/>法定代表人签章:<br xmlns="http://www.w3.org/1999/xhtml"/>公司地址:<br xmlns="http://www.w3.org/1999/xhtml"/>联系电话:<br xmlns="http://www.w3.org/1999/xhtml"/>传真号码:<br xmlns="http://www.w3.org/1999/xhtml"/>被授权人签章:<br xmlns="http://www.w3.org/1999/xhtml"/>被授权人手机:<br xmlns="http://www.w3.org/1999/xhtml"/>被授权人e-mail: </法定代表人授权书格式>
+		<资质证明文件格式>投标商资格简表<br xmlns="http://www.w3.org/1999/xhtml"/>企业名称<u xmlns="http://www.w3.org/1999/xhtml">                </u>企业性质<u xmlns="http://www.w3.org/1999/xhtml">        <br/></u>地址<u xmlns="http://www.w3.org/1999/xhtml">                                   </u><br xmlns="http://www.w3.org/1999/xhtml"/>法人代表<u xmlns="http://www.w3.org/1999/xhtml">                </u>邮编<u xmlns="http://www.w3.org/1999/xhtml">           <br xmlns="http://www.w3.org/1999/xhtml"/></u>电话<u xmlns="http://www.w3.org/1999/xhtml">                    </u>传真<u xmlns="http://www.w3.org/1999/xhtml">           <br xmlns="http://www.w3.org/1999/xhtml"/></u>总产值<u xmlns="http://www.w3.org/1999/xhtml">                  </u>电报<u xmlns="http://www.w3.org/1999/xhtml">           <br xmlns="http://www.w3.org/1999/xhtml"/></u>流动资产<u xmlns="http://www.w3.org/1999/xhtml">                </u>固定资产<u xmlns="http://www.w3.org/1999/xhtml">        <br xmlns="http://www.w3.org/1999/xhtml"/></u>长期债务<u xmlns="http://www.w3.org/1999/xhtml">                </u>流动债务<u xmlns="http://www.w3.org/1999/xhtml">        </u><br xmlns="http://www.w3.org/1999/xhtml"/>高级技经人员<u xmlns="http://www.w3.org/1999/xhtml">            </u>研究设计人员<u xmlns="http://www.w3.org/1999/xhtml">        <br xmlns="http://www.w3.org/1999/xhtml"/></u>工人人数 <u xmlns="http://www.w3.org/1999/xhtml">               </u>中级技经人员<u xmlns="http://www.w3.org/1999/xhtml">        </u></资质证明文件格式>
+		<保证金保函格式><div xmlns="http://www.w3.org/1999/xhtml">投标保证金保函</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">致：                 （招标人）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">  本保函是我行             （银行全称）为                          （投标人全称）参加贵处组织的               项目             （招标编号）招标的投标所作的担保。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    1、 保证金额（大写）                                元（投标总金额的2%）。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    2、在担保期内，我行在收到贵方通知，说明下列事实中的任何一点时，即按要求无条件地向贵方支付保证金：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    a、投标人在开标后撤销投标；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    b、投标人在收到中标通知书后，未能按中标通知书规定的时间、地点与买方签订中标经济合同；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    c、投标人在中标后未按招标文件要求支付中标服务费；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、本保函自开标之日起生效，直到投标文件有效期满后30天，或贵方与投标人书面约定的延长期后30天内有效。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">4、若没有本保函第2项所列情况发生，本保函有效期满后自动失效。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">  银行全称：                 开具人：                 </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（公章）                  （签字）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">      </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">日期：</div></保证金保函格式>
+		<投标人情况表格式><div xmlns="http://www.w3.org/1999/xhtml">投标人情况声明</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">1、名称及概况：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（1）       投标人名称：______________________________________     </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（2）       总部地址：________________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">电传/传真/电话号码：________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（3）       成立和/或注册日期：________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（4）       实收资本：________________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（5）       近期资产负债表（到        年     月     日止）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ①固定资产：________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ②流动资产：________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ③长期负债：________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ④流动负债：________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ⑤净值：____________________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（6）        主要负责人姓名：（可选填）_____________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><br/>2、本投标人生产投标货物的经验（包括年限、项目业主、额定能力、商业运营的起始日期等）：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、近三年本公司主要国内、外主要客户的名称地址，项目名称：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（1）         出口销售</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）__________ （项目名称）______________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）__________ （项目名称）______________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（2）         国内销售</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）__________ （项目名称）______________ </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）__________ （项目名称）______________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">5、近三年的年营业额</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    年   份      国     内      出    口      总     额</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    _______      _________       _______      _________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    _______      _________       _______      _________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">兹证明上述声明是真实、正确的、并提供了全部能提供的资料和数据，我们同意遵照贵方要求出示有关证明文件。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">投标人名称（公章）：             </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">法人授权代表（签字）：            </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">日期：  </div></投标人情况表格式>
+		<投标人财务状况表格式>请详细写明投标人当前财务状况（形式不限）</投标人财务状况表格式>
+		<投标人专业技术人员一览表格式><div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">专业技术人员总人数：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table class="MsoNormalTable msoUcTable" style="TABLE-LAYOUT: fixed; WIDTH: 558pt; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; BORDER-BOTTOM-STYLE: none" tabIndex="-1" cellPadding="0" width="588" border="1">
+<colgroup>
+<col style="WIDTH: 41px"/>
+<col style="WIDTH: 45px"/>
+<col style="WIDTH: 40px"/>
+<col style="WIDTH: 75px"/>
+<col style="WIDTH: 104px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 79px"/>
+<col style="WIDTH: 136px"/>
+<col style="WIDTH: 80px"/>
+<col style="WIDTH: 67px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify">序号</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">姓名</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">性别</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">现任职务</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">持何种资格证件</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">发证时间</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">技术等级</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">本专业工作总年限</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">外语能力</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">备注</div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">1</div></td>
+<td noWrap="1" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">2</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">3</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">4</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">5</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">6</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">7</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">8</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">9</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">10</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">11</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">12</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">13</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">14</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">15</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">16</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">17</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">18</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">19</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr>
+<tr style="MIN-HEIGHT: 14.25pt">
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">20</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center">　</div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: black 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td>
+<td noWrap="1" vAlign="bottom" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="center"> </div></td></tr></tbody></table></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">注：可自行制表，但格式不得变更</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">从业人员及技术资格须附任职资格证书或技术工人等级证书的复印件，以及获得证书的工作人员为本单位员工的证明材料</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 204pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">投标人名称(盖章)：</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 204pt" align="justify" xmlns="http://www.w3.org/1999/xhtml">授权代表签字盖章：</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">                                       日           期：<u>      </u>年<u>   </u>月<u>   </u>日</div></投标人专业技术人员一览表格式>
+		<其他><div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><strong><font face="宋体">附件A9 《美味饭店点餐系统功能要求书》                      </font></strong></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 30pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><strong><font face="宋体">1 背景</font></strong></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 30pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">为了提高规模效益，实现集约经营，“十一五”期间，进一步提高处理能力，扩大覆盖范围，增加服务功能，改进服务质量，积极参与国际竞争，为顾客提供优良的服务，大力发展餐饮业。美味饭店决定建设美味点餐系统。</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 30pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">当前无任何点餐系统</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 30pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">无设备</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 24pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">系统建设的时间要求：</font></div>
+<ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" xmlns="http://www.w3.org/1999/xhtml" start="1">
+<ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" start="1">
+<ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc">
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">美味饭店点餐系统在合同签定之日起三个月内进入试运行；</font></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">其他需求部分与软件系统开发时间相配合。</font></li></ul></ul></ul>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"></font> </div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">　　 <strong>2 美味饭店点餐系统</strong></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">　　2.1总体要求</font></div>
+<ul style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc" xmlns="http://www.w3.org/1999/xhtml">
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">选取市场上实用效果好、技术先进的软件开发工具。</font></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">软件的操作简单直观，容易理解，使用户可以顺利完成操作。</font></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">具有严密的安全保密措施。充分应用身份识别与验证、访问权限控制等。根据用户的不同身份严格区分其权限。</font></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">严格按照软件工程方法进行项目开发。</font></li></ul>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">　　 </font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">    2．2点餐系统软件功能要求</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">美味饭店点餐系统包括：菜的信息维护、消费信息维护、账单信息查询、退菜、加菜</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.2.1菜的信息维护</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">对数据库中菜的信息进行维护：菜的编号，价格，制作时间，口味，主要原料、厨师编号等</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.2.2消费信息维护</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">消费信息包括：消费的菜名，每个菜的价格，折扣情况，其他情况，消费总额</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.2.3账单信息查询</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">顾客要求查询消费记录、厨师编号</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">饭店人员查询</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">被授权人员查询</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.2.4退菜</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">对顾客正确退菜要求给予退菜同时将信息输入账单数据库</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">2.2.4.1账单格式</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">  要求有消费的详细记录 具体格式不限。</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">2.2.4.2支付方式</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">现金支付</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">刷卡支付</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.2.5加菜</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">顾客可多次点菜</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">2.3点菜流程</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">顾客提交所点菜单－&gt;后厨确认记录－&gt;前台确认记录－&gt;顾客付款-&gt;完成</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">2.4退菜流程</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml">顾客提出退菜申请－&gt;后厨确认记录－&gt;前台确认记录－&gt;完成</div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 21pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><strong>3 性能要求</strong></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 25.5pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">根据行业特点与需要，本系统在运行时要保证稳定，无误；数据库更新要实时；操作界面简洁易懂。</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 25.5pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">要求以实现本文所述各项功能为目标，对于功能模块的分类、组合、命名则不受限制。投标公司根据自己有关项目的实施经验，可以提出本文没有列出、但受到用户欢迎的实用功能。</font></div></其他>
+	</附件>
+</招标书><!-- web15608.mail.cnb.yahoo.com uncompressed/chunked Tue Sep 11 13:54:10 CST 2007 --><!-- web92006.mail.cnb.yahoo.com uncompressed/chunked Tue Sep 11 13:56:30 CST 2007 --><!-- web15706.mail.cnb.yahoo.com uncompressed/chunked Thu Sep 13 08:54:48 CST 2007 --><!-- web15701.mail.cnb.yahoo.com uncompressed/chunked Tue Sep 18 14:25:52 CST 2007 -->

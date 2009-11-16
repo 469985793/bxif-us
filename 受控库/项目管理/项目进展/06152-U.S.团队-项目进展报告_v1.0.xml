@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.2" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《项目进展报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-i-KEU--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><项目进展报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>草稿</文件状态>
+			<文件标识>U.S.-BXIF-PPR-v1.0</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>刘大伟</姓名>
+				<学号>0615233</学号>
+				<团队>U.S.团队</团队>
+			</作者>
+			<完成日期>2009-10-17</完成日期>
+			<版本更新信息/>
+		</状态与版本信息>
+		<引言>
+			<使用人员>项目的技术负责人，系统设计人员，项目管理人员，质量保证人员，项目开发人员客户， 用户和公司与项目相关高级管理人员</使用人员>
+			<编写目的><div xmlns="http://www.w3.org/1999/xhtml">编写项目进度报告有以下几个目的： </div>
+<ol xmlns="http://www.w3.org/1999/xhtml" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1">
+<li>向团队和客户汇报项目实际进展情况。 </li>
+<li>总结前一阶段的工作，得出经验教训。</li>
+<li>找出目前项目进展过程中的问题，提出解决方案，在下面的工作中尽量避免。</li></ol></编写目的>
+			<背景> <br xmlns="http://www.w3.org/1999/xhtml"/>目前 《美味餐厅点餐系统》 项目建设工作正处于概要设计阶段，马上要进入详细设计和实现阶段。为了保证工程按照 《 软件需求说明书 》 的要求在规定的时间内完成，编写了此项目进展报告。</背景>
+			<定义与缩写>
+				<术语></术语>
+				<解释></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目>《美味点餐系统项目开发计划》</条目><条目>《美味点餐系统软件需求说明书》</条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<编号></编号>
+	<项目阶段>需求分析</项目阶段>
+	<项目经理>刘大伟</项目经理>
+	<日期>2009-10-17</日期>
+	<项目进展情况>
+		<任务与进度>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 308px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 77px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 4px">
+<td>
+<div><font size="2" face="宋体">任务名称</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">工期</font></div></td>
+<td>
+<div><font size="2" face="宋体">开始时间</font></div></td>
+<td>
+<div><font size="2" face="宋体">结束时间</font></div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体">软件过程定义</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">10 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-10</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-23</font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">软件项目开发计划</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">10 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-10</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-23</font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">配置管理计划</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">9 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-11</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-23</font></font></div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体">质量保证计划</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">7 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-15</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-23</font></font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">软件项目任务书</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">6 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-10</font></font></div></td>
+<td><font size="2" face="宋体">
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-17</font></font></div></font></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体">软件需求说明书</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">5 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-18</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-24</font><!--EndFragment--></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">概要设计</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">1 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-25</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-25</font></font></div></td></tr>
+<tr style="MIN-HEIGHT: 14px">
+<td>
+<div><font size="2" face="宋体">详细设计</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2 工作日</font></div></td>
+<td><font size="2" face="宋体">
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-28</font></font></div></font></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-29</font></font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">实际说明书</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">5 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-30</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-10-6</font></font></div></td></tr></tbody></table></div></计划>
+			<实际情况><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 385px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 77px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 4px">
+<td>
+<div><font size="2" face="宋体">任务名称</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">工期</font></div></td>
+<td>
+<div><font size="2" face="宋体">开始时间</font></div></td>
+<td>
+<div><font size="2" face="宋体">结束时间</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体">软件过程定义</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">10 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-10</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-23</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">软件项目开发计划</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">10 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-10</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-23</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">配置管理计划</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">9 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-11</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-23</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体"></font></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体">质量保证计划</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">7 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-14</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-23</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">有时间，提前开始</font></font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">软件项目任务书</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">6 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-10</font></font></div></td>
+<td><font size="2" face="宋体">
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-17</font></font></div></font></td>
+<td><font size="2" face="宋体">
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体"></font></font> </div></font></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体">软件需求说明书</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">5 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-18</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2009-09-26</font><!--EndFragment--></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">改进质量，推迟完成</font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">概要设计</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">1 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-25</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-25</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体"></font></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 14px">
+<td>
+<div><font size="2" face="宋体">详细设计</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">2 工作日</font></div></td>
+<td><font size="2" face="宋体">
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-28</font></font></div></font></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-29</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体"></font></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">实际说明书</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体">5 工作日</font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-09-30</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体">2009-10-6</font></font></div></td>
+<td>
+<div align="right"><font size="2" face="宋体"><font size="2" face="宋体"></font></font> </div></td></tr></tbody></table></div></实际情况>
+		</任务与进度>
+		<费用>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml">1    软件开发          　　　　　　24万　　　　　　２４万</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2    系统软件购置      　　　　　　3万          　 ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3    人员培训          　　　　　　3万　　　　　　  ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">合计：30万</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">以上价格表单位均为RMB元</div></计划>
+			<实际情况><div xmlns="http://www.w3.org/1999/xhtml">1    软件开发          　　　　　　24万　　　　　　２４万</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2    系统软件购置      　　　　　　3万          　 ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3    人员培训          　　　　　　3万　　　　　　  ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">合计：30万</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">以上价格表单位均为RMB元</div></实际情况>
+		</费用>
+		<人力资源>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml">计划投入3个工作人员：系统分析师，质保组组长，质保组文档员。使用20个人日完成需求分析阶段的工作。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求获取： 4 个工作日，系统分析师参加   4（日）*1 （人）=4（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求评估： 1 个工作日，质保组组长，质保组文档员    2（日）*2（人）=4（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求分析： 7 个工作日，系统分析师   7（日）*1（人）=7（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">编写文档： 1 个工作日，系统分析师，质保组文档员参加   1（日）*2（人）=2（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求报告评审： 1 个工作日，质保组组长，系统分析师，质保组文档员  1（日）*3（人）=3（人日）</div></计划>
+			<实际情况><div xmlns="http://www.w3.org/1999/xhtml">实际投入了4个工作人员：系统分析师，质保组组长，质保组文档员，配置组组长.使用了18人日完成工作</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求获取：3 个工作日，系统分析师参加   3（日）*1 （人）=3（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求评估：1 个工作日，质保组组长，质保组文档员    2（日）*2（人）=4（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求分析：7 个工作日，系统分析师，配置组组长   3（日）*2（人）=6（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">编写文档：1 个工作日，系统分析师，质保组文档员参加   1（日）*2（人）=2（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml">需求报告评审：1 个工作日，质保组组长，质保组文档员，配置组组长  1（日）*3（人）=3（人日）</div></实际情况>
+		</人力资源>
+		<软硬件资源>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml">软件：Microsoft Office 2007，Microsoft Visual Studio 2005，SQL Server 2000</div>
+<div xmlns="http://www.w3.org/1999/xhtml">硬件：每人一台电脑，共13台</div></计划>
+			<实际情况>软件：Microsoft Office 2007，Microsoft Visual Studio 2005，SQL Server 2000<br xmlns="http://www.w3.org/1999/xhtml"/>硬件：每人一台电脑，共13台</实际情况>
+		</软硬件资源>
+		<其他><div xmlns="http://www.w3.org/1999/xhtml">经验： </div>
+<ol xmlns="http://www.w3.org/1999/xhtml" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1">
+<li>项目前期要进行深入的基线调研。</li>
+<li>需要建立专门的评审机构。</li>
+<li>制定详细的项目管理方案有利于项目进展。 </li>
+<li>建立客户和团队之间良好的沟通渠道有利于需求的调研。</li></ol></其他>
+	</项目进展情况>
+	<问题与对策></问题与对策>
+	<签字></签字>
+</项目进展报告>

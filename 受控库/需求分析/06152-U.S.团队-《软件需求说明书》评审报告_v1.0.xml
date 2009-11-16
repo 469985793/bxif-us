@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>草稿</文件状态>
+			<文件标识>U.S.-BXIF-AR-v1.0</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>张达</姓名>
+				<学号>0615228</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-09-28</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 483px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 55px"/>
+<col style="WIDTH: 99px"/>
+<col style="WIDTH: 99px"/>
+<col style="WIDTH: 133px"/>
+<col style="WIDTH: 97px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 31px">
+<td>
+<div><font size="2" face="宋体">序号</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订日期</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订人</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订内容</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订后版本</font></div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 32px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>《软件需求说明书》评审报告</标题>
+	<组织名称>U.S.团队质保组</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人></主持人>
+	<参加人>董秀丽 刘群辉 张达</参加人>
+	<地点>教2-102</地点>
+	<日期>2009-09-28</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">1.软件需求说明书</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.《软件需求说明书》评审报告</div></提交内容>
+	<评审项与结论>
+		<要素>需求说明的正确性</要素>
+		<评审结果><div xmlns="http://www.w3.org/1999/xhtml">需要再次修改</div></评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">问题：打印票据的功能没有描述清晰 对策：重新进行描述</div>
+<div xmlns="http://www.w3.org/1999/xhtml">问题：数据字典部分不够清晰       对策：对数据字典重新定义</div>
+<div xmlns="http://www.w3.org/1999/xhtml">问题：库存统计功能超出范围       对策：删除库存统计功能</div></问题和对策>
+	<要素>需求说明的完整性</要素><评审结果>基本通过</评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">问题：输入输出要求描述简略     对策：做进一步的描述</div>
+<div xmlns="http://www.w3.org/1999/xhtml">问题:没有设定每个需求的优先级  对策：设定每个需求的优先级</div></问题和对策><要素>需求的质量属性</要素><评审结果>通过</评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">问题：系统的安全性考虑不够周全  对策：进一步寻找可能的安全威胁，并提出解决方案</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></问题和对策></评审项与结论>
+	<总结>   本次评审对软件需求说明书进行了逐项检查，结合老师提出的问题进行进一步分析，发现了一些新的问题，并逐一进行了解决或提出了解决方案。</总结>
+	<签字>张达、董秀丽、刘群辉</签字>
+	<附件>
+		<其他材料>无</其他材料>
+		<评审记录><div xmlns="http://www.w3.org/1999/xhtml">
+<table class="msoUcTable" style="BORDER-RIGHT: medium none; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 384px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word" tabIndex="-1" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 69px"/>
+<col style="WIDTH: 123px"/>
+<col style="WIDTH: 64px"/>
+<col style="WIDTH: 128px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 16px">
+<td colSpan="2">
+<div><font face="宋体" size="2">评审日期：2009.9.28</font></div></td>
+<td colSpan="2">
+<div><font face="宋体" size="2">评审性质：评审</font></div></td></tr>
+<tr>
+<td>
+<div><font face="宋体" size="2">问题编号</font></div></td>
+<td colSpan="2">
+<div align="center"><font face="宋体" size="2">问题摘要</font></div></td>
+<td>
+<div><font face="宋体" size="2">是否解决</font></div></td></tr>
+<tr style="MIN-HEIGHT: 16px">
+<td>
+<div><font face="宋体" size="2">1</font></div></td>
+<td colSpan="2">
+<div><font face="宋体" size="2">打印票据的功能没有描述清晰</font></div></td>
+<td>
+<div><font face="宋体" size="2">是</font></div></td></tr>
+<tr style="MIN-HEIGHT: 16px">
+<td>
+<div><font face="宋体" size="2">2</font></div></td>
+<td colSpan="2">
+<div><font face="宋体" size="2">数据字典部分不够清晰 </font></div></td>
+<td>
+<div><font face="宋体" size="2">是</font></div></td></tr>
+<tr style="MIN-HEIGHT: 16px">
+<td>
+<div><font face="宋体" size="2">3</font></div></td>
+<td colSpan="2">
+<div><font face="宋体" size="2">库存统计功能超出范围</font></div></td>
+<td>
+<div><font face="宋体" size="2">是</font></div></td></tr>
+<tr>
+<td>
+<div><font face="宋体" size="2">4</font></div></td>
+<td colSpan="2">
+<div><font face="宋体" size="2">输入输出要求描述简略</font></div></td>
+<td>
+<div><font face="宋体" size="2">是</font></div></td></tr>
+<tr>
+<td>
+<div><font face="宋体" size="2">5</font></div></td>
+<td colSpan="2">
+<div><font face="宋体" size="2">没有设定每个需求的优先级</font></div></td>
+<td>
+<div><font face="宋体" size="2">是</font></div></td></tr>
+<tr>
+<td>
+<div><font face="宋体" size="2">6</font></div></td>
+<td colSpan="2">
+<div><font face="宋体" size="2">系统的安全性考虑不够周全</font></div></td>
+<td>
+<div><font face="宋体" size="2">是</font></div></td></tr></tbody></table></div></评审记录>
+	</附件>
+</评审报告>

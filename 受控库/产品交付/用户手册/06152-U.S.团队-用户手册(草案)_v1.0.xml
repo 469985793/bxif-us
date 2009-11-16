@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.9" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《用户手册》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-Xg---Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><用户手册 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>草稿</文件状态>
+			<文件标识>U.S.-BXIF-UM-v1.0</文件标识>
+			<当前版本>V1.0</当前版本>
+			<作者>
+				<姓名>吴敏</姓名>
+				<学号>2008011428</学号>
+				<团队>U.S.团队</团队>
+			</作者>
+			<完成日期>2009-10-15</完成日期>
+			<版本更新信息>无</版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员><div xmlns="http://www.w3.org/1999/xhtml">美味饭店服务员（包括厨师）以及美味饭店的管理人员</div>
+<div xmlns="http://www.w3.org/1999/xhtml">美味饭店的顾客</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></使用人员>
+			<编写目的><div xmlns="http://www.w3.org/1999/xhtml">该用户手册供美味饭店点餐系统的使用者参考之用，旨在通过对软件系统所具有的功能及基本使用方法的描述，使用户了解软件的用途并且能够确定在什么情况下如何使用。</div></编写目的>
+			<背景><div xmlns="http://www.w3.org/1999/xhtml">为了紧跟行业发展形势，提高工作人员的工作效率并本着方便顾客的方针，美味饭店现准备开发一套仅限本公司的国内点餐系统。</div>
+<ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" xmlns="http://www.w3.org/1999/xhtml">
+<li>
+<div>软件系统名称：美味饭店点餐系统</div>
+</li><li>
+<div>软件项目的任务提出者：美味饭店</div>
+</li><li>
+<div>软件项目的开发者: 北信互联网络股份公司U.S.团队</div>
+</li><li>
+<div>软件系统的用户：美味饭店服务人员（包括厨师）以及管理人员、顾客</div>
+</li><li>
+<div>安装软件的计算中心：北信互联网络股份公司U.S.团队    </div></li></ol></背景>
+			<定义与缩写>
+				<术语>U.S.-BXIF-UM-v1.0</术语>
+				<解释><div xmlns="http://www.w3.org/1999/xhtml">U.S.  软件项目的开发者: 北信互联网络股份公司U.S.团队</div>
+<div xmlns="http://www.w3.org/1999/xhtml">BXIF  北信互联缩写</div>
+<div xmlns="http://www.w3.org/1999/xhtml">UM    用户手册（User's Manual）缩写</div>
+<div xmlns="http://www.w3.org/1999/xhtml">v1.0  1.0版本</div></解释>
+			<术语>主料</术语><解释>每道菜的主要原料</解释><术语>工号</术语><解释>员工的编号，同时作为登陆系统的帐号</解释><术语>菜单</术语><解释>顾客选择完需要的菜品并提交后生成的记录了桌号及点菜情况的单据</解释></定义与缩写>
+			<参考资料>
+				<条目><font face="undefined" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">《06152-U.S.团队-软件需求说明书_v4.0》，北信互联网络股份公司U.S.开发小组，</font>2009<font face="宋体">年9</font></font><font face="宋体" xmlns="http://www.w3.org/1999/xhtml">月</font></条目><条目><font face="宋体" xmlns="http://www.w3.org/1999/xhtml"><font face="undefined"><font face="宋体">中华人民共和国国家标准</font> GB/T 8567-1988<font face="宋体">，《计算机软件产品开发文档编制指南》，中国标准出版社，</font>1988</font></font></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<用途>
+		<功能><div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"><span>在该系统中设三台终端机与若干相同的PDA无线设备。三台终端机分别安装在餐桌，前台与后厨。餐桌上的终端由顾客自助进行点菜，查询，结账，加菜与退菜，并对服务员发起随时的呼叫。前台的终端是进行菜单确认与结算的枢纽。后厨的终端由厨师进行操作，用来把对菜单的确认传送到前台终端。</span><span>PDA无线设备由服务员操作实现即时点餐。</span></font></div></功能>
+		<性能>
+			<精度><div xmlns="http://www.w3.org/1999/xhtml">菜价要精确至元。</div></精度>
+			<时间特性><div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">在系统不出错的情况下，依据对顾客满意度调查和系统可行性分析，点餐操作响应时间应小于2秒</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span></span><span><font face="宋体">在系统不出错的情况下，依据对顾客满意度调查和系统可行性分析，更新处理时间应小于1秒</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span></span><span><font face="宋体">在系统不出错的情况下，依据对顾客满意度调查和系统可行性分析，菜单生成时间应小于10秒</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span></span><span><font face="宋体">在系统不出错的情况下，依据对顾客满意度调查和系统可行性分析，打印菜单时间应小于10秒</font></span></div></时间特性>
+			<灵活性><div xmlns="http://www.w3.org/1999/xhtml"><font face="undefined"><font face="宋体">1. 运行环境的变化：能够支持</font>WINDOWS</font><font face="宋体">系列操作系统，支持后台数据库管理系统的变化。</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2. 同其他软件的接口的变化：易于和库存管理系统的建立接口</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3. 计划的变化或改进：可实现使用无线PDA完成点餐的功能</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; MARGIN-BOTTOM: 0pt" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">4. 三台终端机均采用图形用户界面</font></div></灵活性>
+		</性能>
+		<安全保密><div xmlns="http://www.w3.org/1999/xhtml"><span><font face="宋体">保证系统的高安全性，满足饭店对于传输信息，尤其是财务重要信息的安全要求。</font></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span>VIP用户的资料进行绝对保密</span></div></安全保密>
+	</用途>
+	<运行环境>
+		<硬件设备><div xmlns="http://www.w3.org/1999/xhtml"><font color="#ff0000"></font> </div>
+<ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" xmlns="http://www.w3.org/1999/xhtml">
+<li>
+<div>拥有100M光纤接口的网络环境  <span class="f_dd2">P4以上PC机，1G内存、150G以上剩余空间</span></div></li>
+<li>
+<div><span class="f_dd2"></span><span class="f_dd2">800*600以上显卡支持、光盘驱动</span></div></li>
+<li>
+<div><span class="f_dd2">脱机运行</span></div></li>
+<li>
+<div><span class="f_dd2">输入设备：鼠标 键盘    </span><span class="f_dd2">输出设备：电脑显示屏</span></div></li>
+<li>
+<div><span class="f_dd2">网络：100M光纤接口的网络环境，<span><font face="宋体">网络设备可选CISCO、3COM等。</font></span>无线技术使用</span><span><font face="宋体">Wi-Fi，ZIGBEE 、Bluetooth或者NORDIC的NRF系列。</font></span></div></li></ol></硬件设备>
+		<支持软件><div xmlns="http://www.w3.org/1999/xhtml"><font color="#ff0000"></font> </div>
+<ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" xmlns="http://www.w3.org/1999/xhtml">
+<li>该软件系统在微软的Windows 2000及以上版本的环境中运行</li>
+<li>该软件系统的开发环境为Visual Studio 2005</li>
+<li>数据库管理系统为Microsoft SQL Server 2005</li></ol></支持软件>
+		<数据结构><div xmlns="http://www.w3.org/1999/xhtml">本软件运行所需要的数据库为Microsoft SQL Server 2005管理下的名为"restaurant_order"的数据库  </div></数据结构>
+	</运行环境>
+	<使用过程>
+		<安装与初始化><div xmlns="http://www.w3.org/1999/xhtml">安装步骤：</div>
+<div class="p_dd2" xmlns="http://www.w3.org/1999/xhtml"><span class="f_dd2">step1：将软件的安装光盘放入光驱，进入安装目录，运行setup.exe，安装开始。安装程序会自动判定系统是否以前安装过"美味饭店点餐系统",如果没有安装过，系统会进行全新安装，否则会出现修改/修复/删除界面。</span></div>
+<div class="p_dd2" xmlns="http://www.w3.org/1999/xhtml"><span class="f_dd2">step2：全新安装，一般默认安装即可。主要是选择安装的路径,例如：新软件的安装目录为"C:\Program Files\restaurant_order"。数次点击"确定"后即可完成安装过程。</span></div>
+<div class="p_dd2" xmlns="http://www.w3.org/1999/xhtml"><span class="f_dd2">step3：配置系统ODBC。首先，<span>找到<em> </em></span><span class="f_dd">程序//控制面板//管理工具//数据源（ODBC），</span></span><span class="f_dd2">双击打开。进入[</span><span class="f_dd2">系统DSN</span><span class="f_dd2">]面板，<span class="f_dd2">点击"添加"按钮选择可用的数据源驱动程序列表中的SQL SERVER，<span class="f_dd2">点"完成"按钮，弹出创建新sql sever数据源向导对话框。首先输入数据源的名称，一般为：restaurantsql；然后选择要连接的SQL SERVER服务器。<span class="f_dd2">点"下一步"按钮。在身份验证中可以采用默认的"使用网络登录ID的windowsNT验证""；如果不通，可以再使用"用户输入的登录ID和密码的sql server 验证"，登录ID为:sa，密码为空或由用户设定。</span></span></span></span><span class="f_dd2">点"下一步"按钮，勾选选择默认的数据库为按钮，在下拉列表中选择默认的数据库（一般为restaurant_order）。</span><span class="f_dd2">点"下一步"按钮，</span><span class="f_dd2">点击"完成"按钮。在最后弹出的ODBC Microsoft Sql server安装测试对话框，</span><span class="f_dd2">测试一下我们刚建立的数据源，测试成功的话，点"确定"击完成系统ODBC的配置。</span></div>
+<div class="p_dd" xmlns="http://www.w3.org/1999/xhtml"><span class="f_dd2"></span> </div>
+<div class="p_dd2" xmlns="http://www.w3.org/1999/xhtml"><span class="f_dd2">初始化步骤：</span></div>
+<div class="p_dd2" xmlns="http://www.w3.org/1999/xhtml"><span class="f_dd2"></span>在初次使用该系统时，在服务台子模块中，由饭店管理者输入菜品信息（包括菜品图片，单价，描述以及备注等信息）</div></安装与初始化>
+		<使用流程和操作步骤>
+			<说明><div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">step1. 开始运行程序。在完成"美味饭店点餐系统"的安装后，可以通过以下方式启动：</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">        a.安装程序以后，系统自动在桌面上生成"美味饭店点餐系统"的图标，点击此图标启动软件</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">        b.单击“开始”菜单栏选择"美味饭店点餐系统"选项即可启动软件</div>
+
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">step2. 顾客进行点菜</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">step3. 后厨确认菜品并进行制作</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">step4. 前台结账       </div></说明>
+			<子系统使用流程和操作步骤><div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">用户点餐子系统：</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">在顾客使用的终端界面上，顾客可以通过以下方式完成点菜:</div>
+<ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="a" xmlns="http://www.w3.org/1999/xhtml">
+<li>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left">依据索引进行点菜，顾客在索引栏中输入菜品的主料，如输入"猪肉"，在提示栏中会出现“东坡肉”、“福寿肘子”、“红烧肉”等提示项，顾客从中进行选择。</div></li>
+<li>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left">从系统提供的"菜品Top10"中进行点菜。</div></li>
+<li>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left">依据菜品分类，如“热菜”，“冷菜”，“主食”，“饮料”等进行点菜。</div></li>
+<li>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left">a方法与c方法结合完成点菜</div></li></ol>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">顾客完成点菜的同时，可以在终端界面上看到所点菜的结果，当选中某一菜品时，通过单击“删除”可以取消对该菜品的选择，最终确认菜品之后，点击“提交”，对菜单进行提交。</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">当菜品所显示的信息为"未制作"时，顾客可以点击“退菜”按键完成退菜操作。</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">顾客可以通过点击“呼叫”按键对服务员发起呼叫。</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">通过点击“结算”按键进行结账。</div>
+<div style="PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; MARGIN-BOTTOM: 0px; TEXT-INDENT: 0px" align="left" xmlns="http://www.w3.org/1999/xhtml">      </div></子系统使用流程和操作步骤>
+		<子系统使用流程和操作步骤><div xmlns="http://www.w3.org/1999/xhtml">服务台子系统：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">在前台使用的终端界面上，服务员输入工号以及密码进入功能界面。当顾客需要餐位时，通过点击“餐桌情况”显示当前所有剩余座位的情况，安排顾客入座。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">当顾客对其发起呼叫时，点击“呼叫确认”按键来对其进行响应。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">当顾客需要结算账款时，点击“结算”按键，此时不仅响应了顾客需要结账的请求，同时也将顾客的菜单同时显示在了顾客终端与前台终端的界面上。当用户为VIP用户时，在账单结算时，服务员首先点击“VIP顾客”按键，然后手工输入顾客的VIP信息（作为积分使用），系统自动生成VIP顾客所对应的菜单，以此为依据进行结算。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">前台终端同样可供管理者使用，管理者输入工号以及密码进入功能界面。在设置了查询时间段后，通过点击“统计”按键，可以查看当天/当月/当季度/当年的消费额。点击“排行”按键，可以查看当天/当月/当季度/当年的菜品排行榜。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></子系统使用流程和操作步骤><子系统使用流程和操作步骤><div xmlns="http://www.w3.org/1999/xhtml">后厨子系统：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">在后厨使用的终端界面上，当厨师确定制作该菜品时，可以通过选择“确认制作”来完成对菜品的确认。当菜品的主料不足时，通过选择“原料不足”提示菜品现阶段无法制作。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></子系统使用流程和操作步骤></使用流程和操作步骤>
+		<出错处理和恢复><ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" xmlns="http://www.w3.org/1999/xhtml">
+<li>
+<div>由于人为疏忽或临时断电而导致数据库备份丢失或未进行数据库备份，及时联系系统管理员</div></li>
+<li>
+<div>服务器出错时，及时联系系统管理员，更换或修复服务器，并恢复备份的数据。</div></li></ol></出错处理和恢复>
+	</使用过程>
+</用户手册>

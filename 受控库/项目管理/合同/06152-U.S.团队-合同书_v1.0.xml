@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.8" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《软件开发合同》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:--f0A8--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><软件开发合同 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识></文件标识>
+			<当前版本>1.0</当前版本>
+			<作者>
+				<姓名>刘大伟</姓名>
+				<学号>0615233</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-09-07</完成日期>
+			<版本更新信息>2009-9-7 v1.0</版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+			<定义与缩写>
+				<术语></术语>
+				<解释></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<合同编号>U.S.-BXIF-HT-v1.0</合同编号>
+	<签订单位>
+		<甲方>
+			<名称>美味饭店</名称>
+			<联系方式><div xmlns="http://www.w3.org/1999/xhtml">固定电话： 010-XXXXXXXX </div>
+<div xmlns="http://www.w3.org/1999/xhtml">通讯地址：北京市 XX 区 XX 路 XX 号  </div></联系方式>
+			<银行帐户><div xmlns="http://www.w3.org/1999/xhtml">开户行：北京银行</div>
+<div xmlns="http://www.w3.org/1999/xhtml">帐号： XXXX XXXX XXXX XXXX XXXX</div></银行帐户>
+		</甲方>
+		<乙方>
+			<名称>北信互联网络股份有限公司</名称>
+			<联系方式><div xmlns="http://www.w3.org/1999/xhtml">固定电话： 010-XXXXXXXX </div>
+<div xmlns="http://www.w3.org/1999/xhtml">通讯地址：北京XX区xx路XX号</div></联系方式>
+			<银行帐户><div xmlns="http://www.w3.org/1999/xhtml">开户行：北京银行</div>
+<div xmlns="http://www.w3.org/1999/xhtml">帐号： XXXX XXXX XXXX XXXX XXXX</div></银行帐户>
+		</乙方>
+		<其他方>
+			<名称></名称>
+			<联系方式></联系方式>
+			<银行帐户></银行帐户>
+		</其他方>
+	</签订单位>
+	<引言>本合同根据美味饭店招标编号为 EP20090615227 的招标书和中标通知书于二零零九年九月六号，由北信互联网络股份有限公司（乙方）和美味饭店（甲方）签订，并经双方协商，一致同意下列条款。</引言>
+	<总则>    美味饭店（甲方）和 北信互联网络股份有限公司（乙方）双方经友好协商，一致达成以下协议。双方申明，双方都已理解并认可了本合同的所有内容，同意承担各自应承担的权利和义务，忠实的履行本合同。</总则>
+	<项目描述><div style="LINE-HEIGHT: 1.5" xmlns="http://www.w3.org/1999/xhtml"><span>    美味饭店属于服务行业，所以一切都要本着“服务于顾客，方便于顾客”的宗旨来运作，满足顾客需求的人性化设计是第一位，尽可能<span>使饭店能够随时掌握各个桌位的使用情况，从而便于人员调配，优化人力资源分配结构，为此美味饭店决定开发一个《美味饭店点餐系统》，</span>在该套系统中共设设三个终端，分别安装在餐桌，前台与后厨，以后还可以实现PDA无线点餐服务功能。主要实现的功能有：自助点菜，查询，结账，加菜与退菜，并对服务员发起随时的呼叫，升级无线功能后还可以由服务员使用PDA等无线设备进行即时点餐。前台的终端是进行菜单确认与结算的枢纽。后厨的终端将对菜单的确认传送到前台终端。</span></div>
+<div style="LINE-HEIGHT: 1.5" xmlns="http://www.w3.org/1999/xhtml"><span>        经美味饭店及 北信互联网络股份有限公司（乙方）双方协商，决定本项目的名称为 《 美味饭店点餐系统 》 。</span></div></项目描述>
+	<研究开发计划><div xmlns="http://www.w3.org/1999/xhtml"><font size="3"> 需求调查的设计 9.7--9.27（3周）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3"> 系统开发 9.28--11.28（8周）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3"> 内部测试 10.08-12.05（8周）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3"> 调试运行 12.5--12.22（2周）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3"> 系统验收 12.23--12.28(1周)</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">需求分析及评审、需求规格说明书编写 15 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">概要设计 5 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">详细设计及设计评审 10 个工作日       </font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">实     现</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">    用户点餐子系统 5 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">    服务台子系统 5 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">    后厨子系统 7 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">    数据库子系统 5 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">    库存管理系统 3 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">    总经理查询/决策系统 3个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">系统测试 5 个工作日</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">验收和用户培训 5 个工作日</font></div></研究开发计划>
+	<合同总额和构成><div xmlns="http://www.w3.org/1999/xhtml">1.甲方应向乙方支付软件开发及设计总费用30万人民币. </div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.构成<span>： </span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span></span><span>   软件开发费：20万</span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span></span><span>   系统软件购置费：5万</span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span></span><span>   培训费：5万</span></div></合同总额和构成>
+	<付款方式和时间>1.乙方为甲方进行软件设计及开发工作之前,甲方应付给乙方21万（占总费用的70%）作为软件启动费用. <br xmlns="http://www.w3.org/1999/xhtml"/>2.待乙方全部完成甲方软什制作并由甲方验收后三日内,甲方应一次性付清剩余费用人民币.如逾期不付,每延误一日支付未付款额1‰的滞纳金. </付款方式和时间>
+	<履行的期限地点和方式><div xmlns="http://www.w3.org/1999/xhtml">本合同自2009年9月7日至2009年12月28日在北京履行。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font style="BACKGROUND-COLOR: #f4f4f4">本合同的履行方式：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font style="BACKGROUND-COLOR: #f4f4f4">甲方责任：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">1.甲方有权要求乙方按照附件一中双方商定的软件结构,在双方约定的时间内,完成合同中规定的内容。<br/>2.甲方负责提供乙方制作软件所需的必需资料.在乙方开始制作软件时,甲方应备齐全部资料。<br/>3.甲方应在软件制作的全过程中给予乙方便利条件,并积极配合。<br/>4.甲方有权对乙方设计的软件提出修改意见,由双方协商后进行更改。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">乙方责任：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1.乙方应根据双方商定的软件结构,在双方约定的时间内,完成合同中规定的内容,乙方有权对甲方软件的设计提出自己的意见和建议。<br/>2.双方合作期间,乙方对甲方提供的关于本系统涉及的内容未经甲方许可不得以任何方式泄露给第三方。<br/>3.乙方制作过程中,对甲方陆续提出的修改要求,乙方应尽力协助实现,并由甲方验收通过.对有可能影响双方约定的完成时间的要求,乙方有权提出延期和增加经费的请求,由双方协商确定具体时间和资金。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><font size="3">4</font>.在软件系统正常运行后，供方提供相应源代码及相应技术文档。</span></div></履行的期限地点和方式>
+	<责任>
+		<甲方>
+			<条款><font xmlns="http://www.w3.org/1999/xhtml" size="3">由于甲方未按合同提供资金和重要资料而导致乙方工作不能按时完成,不得追究乙方责任,并和乙方共同研究解决方案。</font></条款><条款><font size="3" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"><span style="FONT-SIZE: 12pt">供方在收到需方的预付款后二个工作日内开始软件项目工程的实施。</span></font></font></条款><条款><font size="3" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"><span style="FONT-SIZE: 12pt">供方按照"系统设计方案和软件功能描述、信息系统功能组成及描述"中所列的内容分别完成软件各功能模块的制作。</span></font></font></条款><条款><font size="3" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"><span style="FONT-SIZE: 12pt">在软件系统正常运行后，供方提供相应源代码及相应技术文档。包括单元测试报告、集成测试报告以及质量评审报告等文档。</span></font></font></条款><条款><font size="3" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"><span style="FONT-SIZE: 12pt">供方按照"系统服务范围和内容"分别提供本项目的系统服务。</span></font></font></条款><条款><font size="3" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"><span style="FONT-SIZE: 12pt">供方按照"培训计划"提供相关的培训服务。</span></font></font></条款><条款><font size="3" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"><span style="FONT-SIZE: 12pt">供方在合同规定的维护期满后，有义务向需方提供有偿的后续技术支持。</span></font></font></条款>
+		</甲方>
+		<乙方>
+			<条款><font size="3" face="宋体" xmlns="http://www.w3.org/1999/xhtml">除因不可抗拒的因数（指发生战争、地震、洪水等其他人力不能控制的不可抗力事件）外，若因乙方违反合同协议而造成甲方的损失由乙方赔偿。</font></条款>
+		</乙方>
+		<其他方>
+			<条款></条款>
+		</其他方>
+	</责任>
+	<违约责任></违约责任>
+	<其他责任><div xmlns="http://www.w3.org/1999/xhtml" style="LINE-HEIGHT: 150%; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体"><span style="FONT-SIZE: 12pt">1. </span><span style="FONT-SIZE: 12pt">供方在本合同中所提供给需方的软件源代码及其技术文档只能在需方的内部使用，需方不得将此次软件中的任何功能模块和技术资料提供给第三方。</span></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="LINE-HEIGHT: 150%; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体"><span style="FONT-SIZE: 12pt">2. </span><span style="FONT-SIZE: 12pt">本合同按中华人民共和国知识产权保护条例、计算机软件保护条例、经济合同法以及适用于本合同的有关法律条例执行。</span></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="LINE-HEIGHT: 150%; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体"><span style="FONT-SIZE: 12pt">3. </span><span style="FONT-SIZE: 12pt">因本合同引起的争议，供需双方应首先通过友好协商解决。如果在一方向另一方发出要求协商的书面通知后六十天内仍不能解决争议，则应依司法程序解决。</span></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="LINE-HEIGHT: 150%; MARGIN-TOP: 0cm; TEXT-INDENT: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 12pt" align="justify"><font face="undefined">4</font><font face="宋体">.本合同未尽事宜，双方另行协商签定补充条款，补充条款与本合同具有同等法律效力。未尽事宜均按照中国人民共和国现行有关法律进行补充。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="LINE-HEIGHT: 150%; MARGIN-TOP: 0cm; TEXT-INDENT: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 12pt" align="justify"><font face="宋体"><span style="FONT-SIZE: 12pt">5</span><span style="FONT-SIZE: 12pt">. </span><span style="FONT-SIZE: 12pt">本协议从签订之日起，乙方在120个工作日内完成系统开发并提交给甲方。系统提交给甲方之日起的10个工作日内，乙方负责对甲方有关人员进行培训。乙方在项目验收合格后提供一年的免费维护。</span></font><span style="FONT-SIZE: 12pt"></span></div></其他责任>
+	<保密要求><font xmlns="http://www.w3.org/1999/xhtml" size="3">本合同中的相关专业技术内容和所有的系统数据，归甲方所有，未经甲方同意，乙方不得提供给第三方。</font></保密要求>
+	<技术成果的归属和分享><div xmlns="http://www.w3.org/1999/xhtml"><font size="3">1.该系统申请专利的权利属于乙方。甲方有权使用该专利，如果乙方转让专利申请权，甲方可在同等条件下优先受让专利申请权。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">2.甲方有开发完成的系统使用权和转让权。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">3.甲方不得在乙方交付研究成果之前，将开发成果转让给第三人。 </font></div></技术成果的归属和分享>
+	<验收标准><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 12pt"><font face="宋体">甲方、乙方分别对平台软件、点餐系统软件功能、移交的程序和文件以及相关的系统服务进行验收。</font></span></验收标准>
+	<风险承担><div xmlns="http://www.w3.org/1999/xhtml">1.在履行本合同的过程中，确因在现有水平和条件下难以克服的技术困难，导致研究开发部分或全部失败所造成的损失，风险责任由甲方承担50%，乙方承担50%。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font style="BACKGROUND-COLOR: #f4f4f4">2.本项目风险责任确认的方式：双方协商。</font></div></风险承担>
+	<违约金和损失赔偿额><div xmlns="http://www.w3.org/1999/xhtml"><font size="3">1.因不可抗力因素(指发生战争、地震、洪水、飓风或其他人力不能控制的不可抗力事件)外，甲乙双方须遵守合同承诺共同承担违约责任。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">2、如果乙方不能按期完成软件开发工作并交给甲方使用，乙方应向甲方支付延期违约金。每延迟一周，乙方向甲方支付合同总额0.5%的违约金，不满一周按一周计算，但违约金总额不得超过合同总额的5%。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">3、如果甲方不能按期向乙方支付合同款项，甲方应向乙方支付延期违约金。每延迟一周，甲方向乙方支付合同总额0.5%的违约金，不满一周按一周计算，但违约金总额不得超过合同总额的5%。</font></div></违约金和损失赔偿额>
+	<解决合同纠纷的方式><div xmlns="http://www.w3.org/1999/xhtml"><font size="3">1.甲方、乙方因合同的解释或履行产生争议,由双方协商解决。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">2.协商无法解决纠纷,双方均有权向有管辖权的人民法院起诉。</font></div></解决合同纠纷的方式>
+	<名词术语解释>无</名词术语解释>
+	<其他><div xmlns="http://www.w3.org/1999/xhtml"><font size="3">1、本合同一式4份，具有同等法律效力，甲乙双方各执两份。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">2、本合同未尽事宜，经双方协商一致，可在合同中增加补充条款，补充条款是合同的组成部分。</font></div></其他>
+	<签字签章>
+		<甲方>美味饭店</甲方>
+		<乙方>北信互联网络有限公司</乙方>
+		<其他方></其他方>
+	</签字签章>
+	<补充条款><div xmlns="http://www.w3.org/1999/xhtml"><font size="3">合同终止与变更：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="3">1.在乙方收到甲方支付的全部费用后,本合同自行终止. <br/>2.任何一方终止合同,需提前10个工作日书面通知对方,并说明正当终止理由,由双方签字代表协商终止合同. <br/>3.由于战争,地震,火灾等法定人力不可抗回素导致的工作中断,双方均不承担责任,待条件恢复后,由双方协商确定合同变更内容. </font></div></补充条款>
+</软件开发合同>

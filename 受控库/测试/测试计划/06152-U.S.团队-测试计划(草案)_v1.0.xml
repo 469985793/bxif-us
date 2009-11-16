@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.15" PIVersion="1.0.0.0" href="file:///\\59.64.69.152\软件项目实践\公开\教学资源\文档模板\《测试计划》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:--EQB-Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><测试计划 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="U.S." version="1.0">
+		<状态与版本信息>
+			<文件状态>草稿</文件状态>
+			<文件标识>U.S.-BXIF-TP-v1.0</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>张达</姓名>
+				<学号>0615228</学号>
+				<团队>U.S.团队</团队>
+			</作者>
+			<完成日期>2009-10-17</完成日期>
+			<版本更新信息>无</版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员>U.S. 团队项目管理人员、质量保证人员、技术负责人、系统设计人员、项目开发人员</使用人员>
+			<编写目的>编写该计划的目的是用于交流软件测试小组的意见、以及对将要执行的任务的理解。</编写目的>
+			<背景>《 美味饭店点餐系统 》 该系统主要是在功能、性能、可靠性、等方面的要求比较高，所以这次测试主要是将工作放在功能性测试和界面测试的范畴上。</背景>
+			<定义与缩写>
+				<术语>U.S.-BXIF-TP-v1.0</术语>
+				<解释><div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana"><strong>U.S.</strong></font> <font face="Verdana"><strong>北信互联网络股份公司U.S.团队</strong></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana"><strong>BXIF  北信互联缩写</strong></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana"><strong>TP 测试计划（Testing Plan）缩写</strong></font></div></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目><font face="Verdana" xmlns="http://www.w3.org/1999/xhtml"><strong>U.S.团队美味饭店点餐系统《软件需求说明书》</strong></font></条目><条目><font face="Verdana" xmlns="http://www.w3.org/1999/xhtml"><strong><font face="Verdana"><strong>U.S.团队美味饭店点餐系统《项目开发计划》</strong></font></strong></font></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<总体设计>
+		<硬件设备><div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana" xmlns="http://www.w3.org/1999/xhtml"><strong>P4 2G Hz 以上处理器</strong></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana" xmlns="http://www.w3.org/1999/xhtml"><strong>内存不少于2G。</strong></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana"><strong>150G以上硬盘空间，并设有备份盘。</strong></font></div></硬件设备>
+		<软件环境>
+			<服务器><div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana" xmlns="http://www.w3.org/1999/xhtml"><strong>系统软件：WINXP</strong></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana"><strong>数据库管理系统：SQL Sever2000</strong></font></div></服务器>
+			<客户端><font xmlns="http://www.w3.org/1999/xhtml" face="Verdana"><strong>系统软件：WINXP</strong></font></客户端>
+		</软件环境>
+	</总体设计>
+	<需求概述>
+		<说明><strong xmlns="http://www.w3.org/1999/xhtml">参考本团队航空订票系统 《 需求规格说明书 》 严格按用户需求对项目进行全面测试。</strong></说明>
+		<功能性测试><div xmlns="http://www.w3.org/1999/xhtml"><strong>1.非会员功能</strong></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><strong>2.点餐系统的基本管理</strong></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><strong>3.菜品信息管理（查询、添加、删除、修改）</strong></div></功能性测试>
+		<用户界面测试><div xmlns="http://www.w3.org/1999/xhtml"><strong>1.桌面用户界面应当和 Windows XP 兼容。   </strong></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><strong>2.系统用户界面美观而且人性化。</strong></div></用户界面测试>
+	</需求概述>
+	<测试计划>
+		<软件说明>
+			<单元 单元编号="01" 单元说明="系统首页">
+				<功能点><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt"><font face="宋体">显示符合性</font></span></功能点>
+				<测试类型>功能测试</测试类型>
+			<功能点><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt"><font face="宋体">检验是否输入合法信息，允许合法登陆，阻止非法登陆</font></span></功能点><测试类型>界面测试、功能测试</测试类型></单元>
+		<单元 单元编号="02" 单元说明="点餐模块">
+									<功能点>显示符合性</功能点>
+									<测试类型>功能测试</测试类型>
+								<功能点>点餐、（增加、删除、修改）</功能点><测试类型>功能测试、界面测试</测试类型><功能点>订桌和退订</功能点><测试类型>界面测试、功能测试</测试类型></单元><单元 单元编号="03" 单元说明="菜品管理模块">
+									<功能点>显示符合性</功能点>
+									<测试类型>功能测试</测试类型>
+								<功能点>增加菜品</功能点><测试类型>界面测试、功能测试</测试类型><功能点>删除菜品</功能点><测试类型>界面测试、功能测试</测试类型><功能点>变更数据保存</功能点><测试类型>界面测试、功能测试</测试类型></单元><单元 单元编号="04" 单元说明="小票模块">
+									<功能点>显示符合性</功能点>
+									<测试类型>功能测试</测试类型>
+								<功能点>小票编号管理</功能点><测试类型>功能测试、界面测试</测试类型></单元><单元 单元编号="05" 单元说明="客户管理功能">
+									<功能点><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt"><font face="宋体">验证客户资料的唯一性</font></span></功能点>
+									<测试类型>界面测试、功能测试</测试类型>
+								<功能点><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt"><font face="宋体">验证客户资料的合法性和完整性</font></span></功能点><测试类型>界面测试、功能测试</测试类型><功能点><span style="FONT-SIZE: 10.5pt" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">验证客户消费情况</font></span></功能点><测试类型>界面测试、功能测试</测试类型></单元></软件说明>
+		<测试工具></测试工具>
+		<测试概述>
+			<目的和任务><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt"><font face="宋体">针对美味饭店点餐系统进行全面测试，依据软件功能对整个系统的各个功能模块进行测试，保证系统代码编写质量符合需求规格说明书要求和用户验收要求。</font></span></目的和任务>
+			<安排和进度>
+				<活动>编写系统测试用例</活动>
+				<开始时间>2009-10-17</开始时间>
+				<结束时间>2009-10-19</结束时间>
+				<实施者></实施者>
+			</安排和进度>
+			<安排和进度>
+									<活动>第一次测试</活动>
+									<开始时间>2009-10-19</开始时间>
+									<结束时间>2009-10-21</结束时间>
+									<实施者></实施者>
+								</安排和进度><安排和进度>
+									<活动>编写测试报告</活动>
+									<开始时间>2009-10-21</开始时间>
+									<结束时间>2009-10-23</结束时间>
+									<实施者></实施者>
+								</安排和进度><条件><div xmlns="http://www.w3.org/1999/xhtml">
+<table class="MsoNormalTable msoUcTable" style="BORDER-RIGHT: medium none; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 338.25pt; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word" tabIndex="-1" cellPadding="0" width="583" border="1">
+<colgroup>
+<col style="WIDTH: 127px"/>
+<col style="WIDTH: 324px"/></colgroup>
+<tbody>
+<tr>
+<td vAlign="top" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">后台服务器</font></div></td>
+<td vAlign="top" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="undefined"><font face="宋体">操作系统：采用</font>Windows2005 Server</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="undefined">WEB</font><font face="宋体">服务：</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="undefined"><font face="宋体">数据库：</font>SQL Server2000</font></div></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">测试用客户端</font></div></td>
+<td vAlign="top" style="BORDER-RIGHT: windowtext 1pt solid; BORDER-TOP: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%" align="justify"><font face="undefined">Windows XP</font></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></条件>
+			<测试交付产品><div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify"><font face="宋体">测试应交付的测试工作产品如下，每次测试都需要填写测试记录、问题清单、评估报告。</font></div>
+<ul xmlns="http://www.w3.org/1999/xhtml" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="disc">
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0cm; LINE-HEIGHT: 150%" align="justify"><font face="宋体">《美味饭店点餐系统系统测试计划》</font></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0cm; LINE-HEIGHT: 150%" align="justify"><font face="宋体">《美味饭店点餐系统系统测试用例》</font></li>
+<li style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0cm; LINE-HEIGHT: 150%" align="justify"><font face="宋体">《美味饭店点餐系统系统测试分析报告》</font></li></ul></测试交付产品>
+		</测试概述>
+	</测试计划>
+	<测试设计说明><span style="FONT-SIZE: 10.5pt" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">被测软件测试用例参考《美味饭店点餐系统软件系统测试用例</font></span><span style="FONT-SIZE: 10.5pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial">.doc</font></span><span style="FONT-SIZE: 10.5pt" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">》</font></span></测试设计说明>
+	<评价准则>
+		<范围><span xmlns="http://www.w3.org/1999/xhtml" style="FONT-SIZE: 10.5pt"><font face="宋体">本系统测试的主要内容包括功能测试、界面测试、安全测试</font></span></范围>
+		<尺度><div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">美味饭店点餐系统的系统测试结果的评判，以测试用例设计中的预期测试结果为依据。系统测试缺陷分为四类。</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="undefined">1</font><font face="宋体">类：测试用例正确执行，与期待输出结果一致，没有发现任何错误。</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="undefined">2</font><font face="宋体">类：能正确完成功能要求，但测试用例执行过程中出现一些界面、提示、使用不方便等方面的问题，对于这些问题一般不需要做进一步处理，往往可以忽略。</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="undefined">3</font><font face="宋体">类：能正确完成主要测试功能点，不能正确完成某些次要功能点，或不能正确处理某些出现概率较小的特殊输入组合，此类问题应不影响测试用例整体的正确性。</font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 150%" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font face="undefined">4</font><font face="宋体">类：不能完成测试用例所要检查的主要功能，或虽有此功能但出现的错误将引发大量的补救措施。</font></div></尺度>
+	</评价准则>
+</测试计划>
