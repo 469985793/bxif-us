@@ -1,0 +1,44 @@
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.OrdingSystem.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Properties.Resources.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.User.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.OrdingSystem.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.Properties.Resources.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.User.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\bin\Release\OrdingSystem.exe
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\bin\Release\OrdingSystem.pdb
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.exe
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.pdb
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\bin\Debug\OrdingSystem.exe
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\bin\Debug\OrdingSystem.pdb
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.exe
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.pdb
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Login.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Front.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Manage.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.Front.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.Login.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Release\OrdingSystem.Manage.resources
+C:\Documents and Settings\user1\桌面\diancan\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Kichen.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.exe
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.pdb
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.OrdingSystem.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Front.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Kichen.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Login.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Manage.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.Properties.Resources.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.User.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.VIPManage.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.csproj.GenerateResource.Cache
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\bin\Debug\OrdingSystem.exe
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\bin\Debug\OrdingSystem.pdb
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.DishEdit.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.EmployeeInformation.resources
+D:\ozz\课件-2009下\diancan(软件项目实践)\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.PWChange.resources
+C:\Documents and Settings\user1\桌面\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.exe
+C:\Documents and Settings\user1\桌面\OrdingSystem\OrdingSystem\obj\Debug\OrdingSystem.pdb
