@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.2" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《项目进展报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-i-KEU--Qo:" language="zh-cn" productVersion="11.0.8165" ?><?mso-application progid="InfoPath.Document"?><项目进展报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BXIF-PPR-v1.0</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>刘大伟</姓名>
+				<学号>0615233</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-11-23</完成日期>
+			<版本更新信息>2009-11-23 刘大伟</版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员>u.s.全体成员</使用人员>
+			<编写目的><div xmlns="http://www.w3.org/1999/xhtml">编写项目进度报告有以下几个目的： </div>
+<ol xmlns="http://www.w3.org/1999/xhtml" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1">
+<li>向团队和客户汇报项目实际进展情况。</li>
+<li>总结前一阶段的工作，得出经验教训。 </li>
+<li>找出目前项目进展过程中的问题，提出解决方案，在下面的工作中尽量避免。</li></ol></编写目的>
+			<背景>目前 《美味餐厅点餐系统》 项目建设工作正处于项目实现阶段。为了保证工程按照 《 软件需求说明书 》 的要求在规定的时间内完成，编写了此项目进展报告。</背景>
+			<定义与缩写>
+				<术语></术语>
+				<解释></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目>《项目开发计划》</条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<编号></编号>
+	<项目阶段>项目实现</项目阶段>
+	<项目经理>刘大伟</项目经理>
+	<日期>2009-11-23</日期>
+	<项目进展情况>
+		<任务与进度>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table class="msoUcTable" style="BORDER-RIGHT: medium none; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 318px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word" tabIndex="-1" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 75px"/>
+<col style="WIDTH: 79px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 87px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 4px">
+<td>
+<div><font face="宋体" size="2">任务名称</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">工期</font></div></td>
+<td>
+<div><font face="宋体" size="2">开始时间</font></div></td>
+<td>
+<div><font face="宋体" size="2">结束时间</font></div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font face="宋体" size="2">用户点餐子系统</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">10 工作日</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">2009-10-6</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">2009-10-19</font></div></td></tr>
+<tr style="MIN-HEIGHT: 25px">
+<td>
+<div><font face="宋体" size="2">服务台子系统</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">8 工作日</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">2009-10-20</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">2009-09-29</font></div></td></tr>
+<tr style="MIN-HEIGHT: 14px">
+<td>
+<div><font face="宋体" size="2">后厨子系统</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">9 工作日</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2"><font face="宋体" size="2">2009-10-30</font></font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2"><font face="宋体" size="2">2009-11-10</font></font></div></td></tr>
+<tr style="MIN-HEIGHT: 26px">
+<td>
+<div><font face="宋体" size="2">总经理查询/决策系统</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">10 工作日</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2"><font face="宋体" size="2">2009-12-4</font></font></div></td>
+<td><font face="宋体" size="2">
+<div align="right"><font face="宋体" size="2"><font face="宋体" size="2">2009-12-14</font></font></div></font></td></tr></tbody></table></div></计划>
+			<实际情况><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table class="msoUcTable" style="BORDER-RIGHT: medium none; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 318px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word" tabIndex="-1" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 75px"/>
+<col style="WIDTH: 79px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 87px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 4px">
+<td>
+<div><font face="宋体" size="2">任务名称</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">工期</font></div></td>
+<td>
+<div><font face="宋体" size="2">开始时间</font></div></td>
+<td>
+<div><font face="宋体" size="2">结束时间</font></div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font face="宋体" size="2">用户点餐子系统</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">10 工作日</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">2009-11-16</font></div></td>
+<td>
+<div align="right"><font face="宋体" size="2">2009-11-26</font></div></td></tr></tbody></table></div></实际情况>
+		</任务与进度>
+		<费用>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1    软件开发          　　　　　　24万　　　　　　２４万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2    系统软件购置      　　　　　　3万          　 ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">3    人员培训          　　　　　　3万　　　　　　  ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">合计：30万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">以上价格表单位均为RMB元</div></计划>
+			<实际情况><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1    软件开发          　　　　　　24万　　　　　　２４万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2    系统软件购置      　　　　　　3万          　 ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">3    人员培训          　　　　　　3万　　　　　　  ３万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">合计：30万</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">以上价格表单位均为RMB元</div></实际情况>
+		</费用>
+		<人力资源>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">计划投入4个工作人员：编程人员、测试人员，质保人员。使用74个人日完成需求分析阶段的工作。</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">用户点餐子系统： 10个工作日，编程人员，测试人员参加   10（日）*2 （人）=20（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">服务台子系统： 8个工作日，编程人员，测试人员参加    8（日）*2（人）=16（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">后厨子系统： 9个工作日，编程人员，测试人员参加  9（日）*2（人）=18（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">总经理查询/决策： 10 个工作日，编程人员，测试人员参加   10（日）*2（人）=20（人日）</div></计划>
+			<实际情况><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">计划投入4个工作人员：编程人员、测试人员，质保人员。使用74个人日完成需求分析阶段的工作。</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">用户点餐子系统： 10个工作日，编程人员，测试人员参加   10（日）*2 （人）=20（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">服务台子系统： 8个工作日，编程人员，测试人员参加    8（日）*2（人）=16（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">后厨子系统： 9个工作日，编程人员，测试人员参加  9（日）*2（人）=18（人日）</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">总经理查询/决策： 10 个工作日，编程人员，测试人员参加   10（日）*2（人）=20（人日）</div></实际情况>
+		</人力资源>
+		<软硬件资源>
+			<计划><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">软件：Microsoft Office 2007，Microsoft Visual Studio 2005，SQL Server 2000</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">硬件：每人一台电脑，共13台</div></计划>
+			<实际情况>软件：Microsoft Office 2007，Microsoft Visual Studio 2005，SQL Server 2000<br xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>硬件：每人一台电脑，共13台</实际情况>
+		</软硬件资源>
+		<其他><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">经验： </div>
+<ol style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" type="1" xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<li>项目前期要进行深入的基线调研。 </li>
+<li>需要建立专门的评审机构。 </li>
+<li>制定详细的项目管理方案有利于项目进展。 </li>
+<li>建立客户和团队之间良好的沟通渠道有利于需求的调研。</li></ol></其他>
+	</项目进展情况>
+	<问题与对策>进展较原计划有延迟（一周时间），原因在于开发团队技术存在一些问题，现正在加紧学习和讨论，并重新定于本周内（11.26之前）完成相应工作。</问题与对策>
+	<签字></签字>
+</项目进展报告>
