@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="前台模块代码" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>BXIF-US-AR-v1.0</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>董秀丽</姓名>
+				<学号>0615202</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-11-26</完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题></标题>
+	<组织名称>质保组</组织名称>
+	<评审种类>
+		<定期评审></定期评审>
+	</评审种类>
+	<主持人>董秀丽</主持人>
+	<参加人>董秀丽</参加人>
+	<地点>教二楼403</地点>
+	<日期>2009-11-26</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">美味饭店点餐系统前台模块源程序</div>
+<div xmlns="http://www.w3.org/1999/xhtml">前台模块源程序评审报告v1.0</div></提交内容>
+	<评审项与结论>
+		<要素>命名</要素>
+		<评审结果>基本符合编码规范中命名规则，个别函数和按钮没有命名</评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">问题：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1.<span>vip</span><span>管理的按钮命名为VIPManage  而对应的函数名为button6_Click</span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span>2.<span>查看空位的按钮命名为Search，而对应的函数命名为button1_Click</span></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><span></span></span> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><span>对策：</span></span></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><span><span>由前台模块的编码人员穆瑞彬在2009.11.30之前进行修改规范</span></span></div></问题和对策>
+	<要素>函数注释</要素><评审结果>个别函数没有注释，且缺少一些说明</评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">问题：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1.button6_Click函数没有注释</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.部分函数内容为空且没有注释，比如timer1_Tick</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.编码规范要求每个源程序文件(.c .cpp等)的顶部都要描述文件名、内容、修改记录等信息，但提交的源程序并没有这些内容</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">对策：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">有前台模块的编码人员穆瑞彬在2009.11.30.之前添加注释并删去多余的空函数</div></问题和对策></评审项与结论>
+	<总结>整体编码基本符合编码规范，但仍有许多细节没按照编码规范进行，需要进行改进</总结>
+	<签字>董秀丽</签字>
+	<附件>
+		<其他材料></其他材料>
+		<评审记录></评审记录>
+	</附件>
+</评审报告>
