@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BXIF-AR-v1.0</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>刘大伟、吴敏</姓名>
+				<学号>0615233、2008011428</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-12-05</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 384px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 96px"/>
+<col style="WIDTH: 96px"/>
+<col style="WIDTH: 96px"/>
+<col style="WIDTH: 96px"/></colgroup>
+<tbody vAlign="top">
+<tr>
+<td>
+<div><font size="2" face="仿宋_GB2312">日期</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">更新内容</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">版本</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">作者</font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="仿宋_GB2312">2009-12-17</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">对用户点餐子模块进行评审</font></div></td>
+<td>
+<div><font size="2">v1.0</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">刘大伟</font></div></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题></标题>
+	<组织名称>U.S.开发团队</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>刘大伟</主持人>
+	<参加人>团队全体成员</参加人>
+	<地点>教二楼403机房</地点>
+	<日期>2009-12-17</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">1.用户点餐子模块的源代码</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.确认测试，集成测试</div></提交内容>
+	<评审项与结论>
+		<要素>进度计划</要素>
+		<评审结果><div xmlns="http://www.w3.org/1999/xhtml">开发时间基本赶上预设进度，但是部分细节需要完善，存在一些操作问题。集成测试和确认测试时间有点滞后。</div></评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">1.组织开发人员进行调试，准备最终的展示。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.督促测试人员加快测试速度，分派质保组人员协助检查简单错误。</div></问题和对策>
+	<要素>功能实现</要素><评审结果>用户点餐系统中大部分功能已经实现，暂缺后厨子系统，会近两天完成，并做好测试和调试工作。</评审结果><问题和对策>督促开发组成员加大协调与配合力度，通力合作，完成最后的工作。</问题和对策><要素>功能集成</要素><评审结果>部分操作在各个子程序集成后出现严重的崩溃错误。</评审结果><问题和对策>主要原因是因为相关数据库的属性设置以及相关文件的，命名有错误，本节课已经责令修改，目前解决了部分问题。</问题和对策></评审项与结论>
+	<总结></总结>
+	<签字></签字>
+	<附件>
+		<其他材料></其他材料>
+		<评审记录></评审记录>
+	</附件>
+</评审报告>

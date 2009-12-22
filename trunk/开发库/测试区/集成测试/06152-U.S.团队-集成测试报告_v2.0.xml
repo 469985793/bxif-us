@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.2" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《测试报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:--EU--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><测试报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BXIF-STR-V2.0</文件标识>
+			<当前版本>v2.0</当前版本>
+			<作者>
+				<姓名>王超</姓名>
+				<学号>06152-36</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-12-16</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 612px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 121px"/>
+<col style="WIDTH: 123px"/>
+<col style="WIDTH: 123px"/>
+<col style="WIDTH: 125px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 25px">
+<td>
+<div><font size="2" face="宋体">序号</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订日期</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订人</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订内容</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订后版本</font></div></td></tr>
+<tr style="MIN-HEIGHT: 24px">
+<td>
+<div><font size="2" face="宋体">1</font></div></td>
+<td>
+<div><font size="2" face="宋体">2009/12/21</font></div></td>
+<td>
+<div><font size="2" face="宋体">王超</font></div></td>
+<td>
+<div><font size="2" face="宋体">缺陷统计与分析，测试结论与建议</font></div></td>
+<td>
+<div><font size="2" face="宋体">2.0</font></div></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员>U.S.团队</使用人员>
+			<编写目的><comment xmlns="http://www.w3.org/1999/xhtml"></comment><font face="宋体" xmlns="http://www.w3.org/1999/xhtml"><span><font size="3">验证软件与软件需求规格说明的一致性。</font><font color="#ffffff"> <strong> </strong></font></span></font></编写目的>
+			<背景><font xmlns="http://www.w3.org/1999/xhtml" size="3">待开发系统为“美味点餐系统”本项目的提出者是美味餐厅，开发者是U.S.团队，用户是到美味餐厅用餐的顾客。实现该软件的计算机为美味餐厅的计算机。该软件与美味餐厅的计算机数据库相连。</font></背景>
+			<定义与缩写>
+				<术语>quicktext</术语>
+				<解释>进行功能测试即黑盒测试所使用的工具</解释>
+			</定义与缩写>
+			<参考资料>
+				<条目></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<测试概要>
+		<测试用例设计><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 615px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="MsoNormalTable msoUcTable" tabIndex="-1" border="1" cellPadding="0" width="100%">
+<colgroup>
+<col style="WIDTH: 75px"/>
+<col style="WIDTH: 148px"/>
+<col style="WIDTH: 146px"/>
+<col style="WIDTH: 123px"/>
+<col style="WIDTH: 123px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 28.5pt">
+<td colSpan="3" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="center"><strong><font face="宋体">测试案例名称：用户点餐流程</font></strong></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">案例编号：</font> 001</strong></font></div></td></tr>
+<tr style="MIN-HEIGHT: 34.5pt">
+<td colSpan="3" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; TEXT-INDENT: -130.1pt; PADDING-LEFT: 130.1pt; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">对应的需求、设计：需求：</font> 点菜系统，加菜，退菜，热门推荐，呼叫服务员</strong></font></div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><span>                  设计：</span> </strong></font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">其他文档：</font> </strong></div></td></tr>
+<tr style="MIN-HEIGHT: 13.85pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">输入数据</font> </strong></div></td>
+<td colSpan="4" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">无</font></div></td></tr>
+<tr style="MIN-HEIGHT: 8.25pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">序号</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">操作步骤</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">预期输出</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">实测结果</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">分析编号</font> </strong></div></td></tr>
+<tr style="MIN-HEIGHT: 32.55pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"><strong>1 </strong></font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击“点餐”进入“用户点餐界面”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出用户点餐界面</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">01</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"><strong>2 </strong></font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击“显示菜单”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出菜品信息菜单</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">02</font></div></td></tr>
+<tr style="MIN-HEIGHT: 37.05pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">3</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">选择菜品：双击一个菜品</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">菜品名在左侧列表中创建，同时下面出现菜的图片</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">03</font></div></td></tr>
+<tr style="MIN-HEIGHT: 55.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">4</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">删除菜品：在左侧列表中选中一个菜品名，点击“删除”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">在左侧列表中被选中的菜品消失，即被删除</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">04</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">5</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">提交</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"></font> </div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"></font> </div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">05</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">6</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">呼叫服务员：点击“呼叫服务员”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">弹出对话框</font>”<font face="宋体">服务台收到信息</font>”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">06</font></div></td></tr>
+<tr style="MIN-HEIGHT: 26.25pt">
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">用例编制人：</font> 王超</strong></font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">测试人：</font> 王超</strong></font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">审批：</font> </strong></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 615px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="MsoNormalTable msoUcTable" tabIndex="-1" border="1" cellPadding="0" width="100%">
+<colgroup>
+<col style="WIDTH: 123px"/>
+<col style="WIDTH: 123px"/>
+<col style="WIDTH: 130px"/>
+<col style="WIDTH: 116px"/>
+<col style="WIDTH: 123px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 28.5pt">
+<td colSpan="3" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">测试案例名称：</font> 前台系统流程</strong></font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">案例编号：</font> 002</strong></font></div></td></tr>
+<tr style="MIN-HEIGHT: 42.25pt">
+<td colSpan="3" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; TEXT-INDENT: -128.3pt; PADDING-LEFT: 128.3pt; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">对应的需求、设计：需求：订座系统，结账系统，账单查询，打印票据</font></strong></div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><span>                  设计：</span> </strong></font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">其他文档：</font> </strong></div></td></tr>
+<tr style="MIN-HEIGHT: 20.25pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">输入数据</font> </strong></div></td>
+<td colSpan="4" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">用户名：</font>00018<font face="宋体">密码：</font>90217222</font></div></td></tr>
+<tr style="MIN-HEIGHT: 12pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">序号</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">操作步骤</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">预期输出</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">实测结果</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">分析编号</font> </strong></div></td></tr>
+<tr style="MIN-HEIGHT: 22.8pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"><strong>1 </strong></font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">点击</font>”<font face="宋体">登陆</font>”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出“登陆框”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">01</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"><strong>2 </strong></font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">输入用户名密码并点击登陆</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出“前台界面”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">02</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">3</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击查看空位</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出桌位信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">03</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">4</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击订位</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出订位框</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">04</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">5</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">填入要订的桌号并填写备注，然后点击订位</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出</font></div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined">“reservation        successful</font><font face="宋体">”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">05</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">6</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击“就餐”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"></font> </div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">错误</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">06</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">7</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击“结账”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出结账界面</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">07</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">8</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">输入桌号，点击“查询”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">在下面的框中出现账单信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">错误</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">08</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">9</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击“结账”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">在框中显示结账信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">错误</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">09</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">10</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击打印账单</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">弹出一个</font>access</font><font face="宋体">报表</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">错误</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">10</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">用例编制人：</font> 王超</strong></font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><strong><font face="宋体">测试人：</font> 王超</strong></font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">审批：</font> </strong></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 614px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; BORDER-TOP-STYLE: none; TABLE-LAYOUT: fixed; BORDER-LEFT-STYLE: none" class="MsoNormalTable msoUcTable" tabIndex="-1" border="1" cellPadding="0" width="100%">
+<colgroup>
+<col style="WIDTH: 81px"/>
+<col style="WIDTH: 116px"/>
+<col style="WIDTH: 171px"/>
+<col style="WIDTH: 123px"/>
+<col style="WIDTH: 123px"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 6pt">
+<td colSpan="3" vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">测试案例名称：</font> </font><font face="宋体">经理系统流程</font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">案例编号：</font> 003</font></div></td></tr>
+<tr style="MIN-HEIGHT: 42.25pt">
+<td colSpan="3" vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">对应的需求、设计：需求：经理拥有对菜单数据库，职工信息库，账单临时数据库的管理与修改权限</font>                  <font face="宋体">设计：</font> </font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">其他文档：</font> </div></td></tr>
+<tr style="MIN-HEIGHT: 15.8pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">输入数据</font> </div></td>
+<td colSpan="4" vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">无</font></div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">序号</font> </div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">操作步骤</font> </div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">预期输出</font> </div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">实测结果</font> </div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">分析编号</font> </div></td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">1 </font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击查看菜品</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">右侧框内出现菜品明细</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">01</td></tr>
+<tr style="MIN-HEIGHT: 1.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">2 </font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">选择一个菜品点击编辑菜品</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">弹出</font>DishEdit</font><font face="宋体">界面</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">02</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">3</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">更换一个图片或变几个数据，点击修改</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出对话框“修改成功”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">03</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">4</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击新增菜品</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">弹出</font>DishEdit</font><font face="宋体">界面</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">04</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">5</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">增加图片填好数据，然后点击新增</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出对话框“新增成功”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">05</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">6</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">选择一个菜品，点击删除，然后选择是</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出对话框“真的要删除菜品吗”“删除菜品成功”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">06</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">7</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击查看职工信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">右侧框内出现菜品明细</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">07</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">8</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">选择一个职工，点击编辑职工信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出编辑职工信息界面</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">08</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">9</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">填入合法密码或改变权限信息，点击修改</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出对话框“修改成功”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">09</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">10</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击新增职工信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出新增职工界面</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">10</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">11</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">填入正确且不重复的工号，填入姓名密码职务点击新增</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出对话框“新增成功”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">11</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">12</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">选择一个职工，点击删除职工信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">弹出对话框“删除成功”</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">12</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">13</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击查看报表</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">右侧框内出现报表信息</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">13</td></tr>
+<tr style="MIN-HEIGHT: 21.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri">14</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">点击删除历史纪录</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid"></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">错误</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">14</td></tr>
+<tr style="MIN-HEIGHT: 26.25pt">
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">用例编制人：</font> </font><font face="宋体">王超</font></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="undefined"><font face="宋体">测试人：</font> </font><font face="宋体">王超</font></div></td>
+<td colSpan="2" vAlign="top" style="BORDER-BOTTOM: #00001a 2.25pt solid; BORDER-LEFT: #00001a 2.25pt solid; BORDER-TOP: #00001a 2.25pt solid; BORDER-RIGHT: #00001a 2.25pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">审批：</font> </div>
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"> </div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 592px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="MsoNormalTable msoUcTable" tabIndex="-1" border="1" cellPadding="0">
+<colgroup>
+<col style="WIDTH: 416px"/>
+<col style="WIDTH: 176px"/></colgroup>
+<tbody>
+<tr>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">检查项</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">测试人员的类别及其评价</font> </strong></div></td></tr>
+<tr style="MIN-HEIGHT: 25.5pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">窗口切换、移动、改变大小时正常吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">不正常</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">各种界面元素的文字正确吗？（如标题、提示等）</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">各种界面元素的状态正确吗？（如有效、无效、选中等状态）</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td></tr>
+<tr style="MIN-HEIGHT: 27.75pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">各种界面元素支持键盘操作吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">支持</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">各种界面元素支持鼠标操作吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">支持</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">对话框中的缺省焦点正确吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">正确</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">数据项能正确回显吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">部分能</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">对于常用的功能，用户能否不必阅读手册就能使用？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">可以</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">执行有风险的操作时，有“确认”、“放弃”等提示吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">有</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">操作顺序合理吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">有少部分不合理</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">有联机帮助吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">没有</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">各种界面元素的布局合理吗？美观吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">还算合理，但不是很美观</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">各种界面元素的颜色协调吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">不协调</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">各种界面元素的形状美观吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">不美观</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">字体美观吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">还可以</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">图标直观吗？</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="宋体">直观</font></div></td></tr>
+<tr style="MIN-HEIGHT: 18pt">
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><strong><font face="宋体">…</font> </strong></div></td>
+<td vAlign="top" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt; FONT-SIZE: 10.5pt" align="justify"><font face="Calibri"></font> </div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> </div></测试用例设计>
+		<测试环境与配置>
+			<硬件环境>CPU:CORE 1,1GB RAM,80 G HDD</硬件环境>
+			<软件环境>win7 系统，visual studio 2008,sqlserve 2000</软件环境>
+		</测试环境与配置>
+		<测试方法和工具><div xmlns="http://www.w3.org/1999/xhtml">黑盒测试</div>
+<div xmlns="http://www.w3.org/1999/xhtml">工具：quicktext</div></测试方法和工具>
+	</测试概要>
+	<测试结果>
+		<测试执行情况与记录>成功25个，错误5个</测试执行情况与记录>
+		<覆盖分析>除修改密码外都覆盖测试了一个流程</覆盖分析>
+	</测试结果>
+	<缺陷的统计与分析>
+		<缺陷统计><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">前台缺陷：就餐，结账，VIP管理全部功能都有问题,没有异常处理，且没有返回上一级界面的按键</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">用户点餐:一些按键需要在为空时进行提示，且没有返回上一级界面的按键，菜品在任何状态都能被删除</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">经理界面：退出按键功能设置不合理</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">          登陆框内没有返回上一级界面的按键</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">          </div></缺陷统计>
+		<缺陷分析>用户点餐模块在删除和提交的异常处理上没有提示，前台只有查看空位、订位功能实现，其他只要不按照特定步骤运行就会发生异常中断</缺陷分析>
+	</缺陷的统计与分析>
+	<测试结论与建议>
+		<结论>前台缺陷问题很严重，用户点餐模块上需进一步更改，经理模块在新增菜品或职工信息时信息有重复弹出的提示信息不符合标准</结论>
+		<建议><div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">在每个界面（除初始界面）都增加一个返回上级菜单的按键</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">用户点餐界面，在选择菜品时将“选择该菜品”功能键改为双击</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">前台建议将缺少的功能补全，异常处理补全</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">在用户点餐和前台之间设定一个联系，即平时将各个桌子上的客户端进行锁定，在前台订位好之后再选择就餐进行解除锁定</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">用户点餐界面在提交菜品成功后应在一个框内显示已经提交的菜品并显示其状态</div>
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">经理模块添加一个月内一个季度内一年内报表的信息显示</div></建议>
+	</测试结论与建议>
+</测试报告>
