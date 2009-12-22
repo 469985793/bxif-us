@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="11.0.8165" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BXIF-AR-v2.0</文件标识>
+			<当前版本>v2.0</当前版本>
+			<作者>
+				<姓名>刘大伟、吴敏</姓名>
+				<学号>0615233、2008011428</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-12-05</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table class="msoUcTable" style="BORDER-RIGHT: medium none; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 384px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word" tabIndex="-1" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 96px"/>
+<col style="WIDTH: 96px"/>
+<col style="WIDTH: 96px"/>
+<col style="WIDTH: 96px"/></colgroup>
+<tbody vAlign="top">
+<tr>
+<td>
+<div><font face="仿宋_GB2312" size="2">日期</font></div></td>
+<td>
+<div><font face="仿宋_GB2312" size="2">更新内容</font></div></td>
+<td>
+<div><font face="仿宋_GB2312" size="2">版本</font></div></td>
+<td>
+<div><font face="仿宋_GB2312" size="2">作者</font></div></td></tr>
+<tr>
+<td>
+<div><font face="仿宋_GB2312" size="2">2009-12-5</font></div></td>
+<td>
+<div><font face="仿宋_GB2312" size="2">对用户点餐子模块进行评审</font></div></td>
+<td>
+<div><font size="2">v2.0</font></div></td>
+<td>
+<div><font face="仿宋_GB2312" size="2">吴敏</font></div></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题></标题>
+	<组织名称>U.S.开发团队</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>刘大伟</主持人>
+	<参加人>团队全体成员</参加人>
+	<地点>教二楼403机房</地点>
+	<日期>2009-12-03</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">1.用户点餐子模块的源代码</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.前台模块测试用例</div></提交内容>
+	<评审项与结论>
+		<要素>进度计划</要素>
+		<评审结果><div xmlns="http://www.w3.org/1999/xhtml">实现阶段的时间安排不符合原计划，在规定时间内仍有部分功能未实现，估计任务的实现要超出预期一周左右。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">1.督促开发组成员加紧学习相关技术。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.为了减小对后期进度的影响，重新安排人手，同时启动两个模块的实现。</div></问题和对策>
+	<要素>功能实现</要素><评审结果>用户点餐系统中部分功能没有实现，如结账与打印的功能</评审结果><问题和对策>督促开发组成员加紧学习相关技术</问题和对策><要素>测试进度</要素><评审结果>测试用例过少</评审结果><问题和对策>测试人员用的计算机的配置环境与开发人员用的计算机配置保持一致</问题和对策><要素>菜单中的图片</要素><评审结果>对于菜单中的图片该如何放置，如何实现客户端菜单图片与前台图片的同时更新，缺乏理解</评审结果><问题和对策>先把每一张菜品的图片设置为Button，以控件的形式插入，以实现功能</问题和对策></评审项与结论>
+	<总结></总结>
+	<签字></签字>
+	<附件>
+		<其他材料></其他材料>
+		<评审记录></评审记录>
+	</附件>
+</评审报告>

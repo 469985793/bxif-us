@@ -2,8 +2,8 @@
 	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
 		<状态与版本信息>
 			<文件状态>正式发布</文件状态>
-			<文件标识>U.S.-BXIF-SCMP-v1.1</文件标识>
-			<当前版本>1.1</当前版本>
+			<文件标识>U.S.-BXIF-SCMP-v1.0</文件标识>
+			<当前版本>1.0</当前版本>
 			<作者>
 				<姓名>刘群辉</姓名>
 				<学号>0615235</学号>
@@ -30,17 +30,17 @@
 <div><font size="2" face="仿宋_GB2312">修订内容</font></div></td>
 <td>
 <div><font size="2" face="仿宋_GB2312">修订后版本</font></div></td></tr>
-<tr>
+<tr style="MIN-HEIGHT: 16px">
 <td>
-<div><font size="2" face="仿宋_GB2312">1</font></div></td>
+<div><font size="2" face="仿宋_GB2312"></font> </div></td>
 <td>
-<div><font size="2" face="仿宋_GB2312">2009/9/13</font></div></td>
+<div><font size="2" face="仿宋_GB2312"></font> </div></td>
 <td>
-<div><font size="2" face="仿宋_GB2312">刘群辉</font></div></td>
+<div><font size="2" face="仿宋_GB2312"></font> </div></td>
 <td>
-<div><font size="2" face="仿宋_GB2312">开发库</font></div></td>
+<div><font size="2" face="仿宋_GB2312"></font> </div></td>
 <td>
-<div><font size="2" face="仿宋_GB2312">v1.1</font></div></td></tr>
+<div> </div></td></tr>
 <tr>
 <td>
 <div><font size="2" face="仿宋_GB2312"></font> </div></td>
