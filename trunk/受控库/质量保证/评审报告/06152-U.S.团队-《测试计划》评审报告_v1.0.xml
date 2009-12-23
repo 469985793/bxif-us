@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="测试计划" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BIXF-AR-v1.0</文件标识>
+			<当前版本>1.0</当前版本>
+			<作者>
+				<姓名>刘群辉</姓名>
+				<学号>0615235</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-12-17</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 480px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 58px"/>
+<col style="WIDTH: 89px"/>
+<col style="WIDTH: 77px"/>
+<col style="WIDTH: 160px"/>
+<col style="WIDTH: 96px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">序号</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订日期</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订人</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订内容</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订后版本</font></div></td></tr>
+<tr style="MIN-HEIGHT: 19px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题></标题>
+	<组织名称>U.S.</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>刘群辉</主持人>
+	<参加人>刘群辉</参加人>
+	<地点>教二楼403机房</地点>
+	<日期>2009-12-17</日期>
+	<提交内容>《测试计划》评审报告</提交内容>
+	<评审项与结论>
+		<要素>需求概述</要素>
+		<评审结果>通过，详细说明了测试总体需求并划分了功能性和用户界面测试的内容</评审结果>
+		<问题和对策>无</问题和对策>
+	<要素>单元测试的单元划分</要素><评审结果>需要完善，按功能点划分了多个单元，但仍需细化</评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">问题：单元的划分不全面，没有包含全部功能点</div>
+<div xmlns="http://www.w3.org/1999/xhtml">对策：由刘群辉在2009/12/17日内修改完成</div></问题和对策><要素>测试活动的安排和进度</要素><评审结果>通过，详细地为每一个测试活动安排了开始、结束时间和实施者。</评审结果><问题和对策>无</问题和对策></评审项与结论>
+	<总结>整个测试计划写的较详细全面，再将单元划分完善即可实施该计划。</总结>
+	<签字>刘群辉</签字>
+	<附件>
+		<其他材料>无</其他材料>
+		<评审记录><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 542px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 134px"/>
+<col style="WIDTH: 74px"/>
+<col style="WIDTH: 100px"/>
+<col style="WIDTH: 234px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 36px">
+<td>
+<div align="center"><font size="2" face="宋体">评审内容</font></div></td>
+<td>
+<div align="center"><font size="2" face="宋体">评审人</font></div></td>
+<td>
+<div align="center"><font size="2" face="宋体">评审结果</font></div></td>
+<td>
+<div align="center"><font size="2" face="宋体">问题和对策</font></div></td></tr>
+<tr style="MIN-HEIGHT: 33px">
+<td>
+<div><font size="2" face="宋体">测试需求</font></div></td>
+<td>
+<div><font size="2" face="宋体">刘群辉</font></div></td>
+<td>
+<div><font size="2" face="宋体">通过</font></div></td>
+<td>
+<div><font size="2" face="宋体">无</font></div></td></tr>
+<tr style="MIN-HEIGHT: 35px">
+<td>
+<div><font size="2" face="宋体">测试单元划分</font></div></td>
+<td>
+<div><font size="2" face="宋体">刘群辉</font></div></td>
+<td>
+<div><font size="2" face="宋体">需要完善</font></div></td>
+<td>
+<div><font size="2" face="宋体">问题：单元划分没有包含所有功能点</font></div>
+<div>对策：由刘群辉在2009/12/17日内修改完成</div></td></tr>
+<tr style="MIN-HEIGHT: 40px">
+<td>
+<div><font size="2" face="宋体">测试活动进度和安排</font></div></td>
+<td>
+<div><font size="2" face="宋体">刘群辉</font></div></td>
+<td>
+<div><font size="2" face="宋体">通过</font></div></td>
+<td>
+<div><font size="2" face="宋体">无</font></div></td></tr></tbody></table></div></评审记录>
+	</附件>
+</评审报告>

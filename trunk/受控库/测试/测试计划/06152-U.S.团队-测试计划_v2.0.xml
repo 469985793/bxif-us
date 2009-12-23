@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.15" PIVersion="1.0.0.0" href="file:///\\59.64.69.152\软件项目实践\公开\教学资源\文档模板\《测试计划》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:--EQB-Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><测试计划 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BXIF-STP-v2.0</文件标识>
+			<当前版本>2.0</当前版本>
+			<作者>
+				<姓名>刘群辉、张达</姓名>
+				<学号>0615235、0615228</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-12-16</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 472px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 56px"/>
+<col style="WIDTH: 102px"/>
+<col style="WIDTH: 72px"/>
+<col style="WIDTH: 168px"/>
+<col style="WIDTH: 74px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">序号</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订日期</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订人</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订内容</font></div></td>
+<td>
+<div><font size="2" face="宋体">修订后版本</font></div></td></tr>
+<tr style="MIN-HEIGHT: 20px">
+<td>
+<div><font size="2" face="宋体">1</font></div></td>
+<td>
+<div><font size="2" face="宋体">2009.12.17</font></div></td>
+<td>
+<div><font size="2" face="宋体">刘群辉</font></div></td>
+<td>
+<div><font size="2" face="宋体">完善单元划分</font></div></td>
+<td>
+<div><font size="2" face="宋体">2.0</font></div></td></tr>
+<tr style="MIN-HEIGHT: 23px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员>测试人员：王超、张佩</使用人员>
+			<编写目的><div style="MARGIN-TOP: 0cm; TEXT-INDENT: 21pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-BOTTOM: 0pt" align="left" xmlns="http://www.w3.org/1999/xhtml">本测试计划包含美味饭店点餐系统项目的基本信息，使参与项目的测试人员对项目有一个大概的认识，明白项目需要测试的内容，测试的进度，测试时间安排等等，本测试计划可作为整个团队（包括开发人员、测试人员及所有项目参与人员）沟通的基础。</div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"><span>但是测试工作的进行不能仅依赖于测试计划，还需要测试人员与开发人员或其他人员及时有效的沟通，因此本计划不包括测试方案的细节和系统功能的详细信息。</span><span style="FONT-SIZE: 10.5pt"><font face="Times New Roman"> </font></span></div></编写目的>
+			<背景>本计划适用于美味饭店点餐系统，执行本计划需要相应的编码工作已完成</背景>
+			<定义与缩写>
+				<术语>QTP</术语>
+				<解释>测试工具 Quick Test Professional</解释>
+			</定义与缩写>
+			<参考资料>
+				<条目></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<总体设计>
+		<硬件设备>P4 2.0GHz CPU,1G RAM,150G HDD，100M网络接口 及以上的PC机</硬件设备>
+		<软件环境>
+			<服务器><div xmlns="http://www.w3.org/1999/xhtml">操作系统：Windows Server 2003</div>
+<div xmlns="http://www.w3.org/1999/xhtml">数据库系统：SQL Server 2000</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></服务器>
+			<客户端><div xmlns="http://www.w3.org/1999/xhtml">操作系统：Windows 2000/XP</div>
+<div xmlns="http://www.w3.org/1999/xhtml">开发平台：Visual Studio 2005</div>
+<div xmlns="http://www.w3.org/1999/xhtml">测试工具：Quick Test Professional</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></客户端>
+		</软件环境>
+	</总体设计>
+	<需求概述>
+		<说明><div xmlns="http://www.w3.org/1999/xhtml">应对软件的每一项功能都进行测试，达到能够正常的输入和输出、错误有提示</div>
+<div xmlns="http://www.w3.org/1999/xhtml">界面测试应保证界面能正常的与用户交互</div></说明>
+		<功能性测试><div xmlns="http://www.w3.org/1999/xhtml">1.用户登陆功能</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.预定桌位功能</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.点餐功能</div>
+<div xmlns="http://www.w3.org/1999/xhtml">4.退菜功能</div>
+<div xmlns="http://www.w3.org/1999/xhtml">5.结账功能(含VIP结账)</div>
+<div xmlns="http://www.w3.org/1999/xhtml">6.经理管理功能</div></功能性测试>
+		<用户界面测试>用户界面、前台界面、后厨界面、经理界面</用户界面测试>
+	</需求概述>
+	<测试计划>
+		<软件说明>
+			<单元 单元编号="01" 单元说明="用户登陆">
+				<功能点>用户输入帐号和密码登陆系统</功能点>
+				<测试类型>动态单元测试</测试类型>
+			</单元>
+		<单元 单元编号="02" 单元说明="编辑菜品">
+									<功能点>编辑已有菜品的信息</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="03" 单元说明="查询菜品">
+									<功能点>查询菜品信息</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="04" 单元说明="删除菜品">
+									<功能点>删除已有的菜品的信息</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="05" 单元说明="添加菜品">
+									<功能点>添加新的菜品信息</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="06" 单元说明="点餐">
+									<功能点>顾客选择菜品并提交</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="07" 单元说明="退菜">
+									<功能点>顾客取消已点但未做的一道或多道菜品</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="08" 单元说明="订桌位">
+									<功能点>预定一个空闲的桌位</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="09" 单元说明="结账">
+									<功能点>结算用餐费用，包含VIP结账</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="10" 单元说明="编辑员工信息">
+									<功能点>饭店经理修改员工的账户信息</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="11" 单元说明="删除员工信息">
+									<功能点>饭店经理删除一个或多个员工的账户信息</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="12" 单元说明="添加员工">
+									<功能点>饭店经理增加一个员工账户</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元><单元 单元编号="13" 单元说明="统计信息">
+									<功能点>饭店经理可以查看一段时间的收入统计</功能点>
+									<测试类型>动态单元测试</测试类型>
+								</单元></软件说明>
+		<测试工具>Quick Test Professional</测试工具>
+		<测试概述>
+			<目的和任务>尽可能多的找出软件中的缺陷，进行记录并反馈给开发人员，保证软件的质量</目的和任务>
+			<安排和进度>
+				<活动>单元测试</活动>
+				<开始时间>2009-11-20</开始时间>
+				<结束时间>2009-12-13</结束时间>
+				<实施者>王超</实施者>
+			</安排和进度>
+			<安排和进度>
+									<活动>确认测试</活动>
+									<开始时间>2009-12-14</开始时间>
+									<结束时间>2009-12-16</结束时间>
+									<实施者>王超</实施者>
+								</安排和进度><安排和进度>
+									<活动>集成测试</活动>
+									<开始时间>2009-12-14</开始时间>
+									<结束时间>2009-12-16</结束时间>
+									<实施者>张佩</实施者>
+								</安排和进度><安排和进度>
+									<活动>功能测试</活动>
+									<开始时间>2009-12-17</开始时间>
+									<结束时间>2009-12-20</结束时间>
+									<实施者>王超</实施者>
+								</安排和进度><条件><div xmlns="http://www.w3.org/1999/xhtml">1. 2台或以上的满足2.1及2.2要求的PC机</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2. 2个以上的测试人员</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3. 测试人员应掌握相关的白盒、黑盒测试技术，会使用QTP工具</div></条件>
+			<测试交付产品>《测试用例》、《集成测试报告》、《确认测试报告》</测试交付产品>
+		</测试概述>
+	</测试计划>
+	<测试设计说明>按功能点将软件分成了很多个单元，先对每个单元进行动态单元测试，讲测试结果反馈给编码人员，编码人员修改后进行确认测试，然后将各模块集成，进行集成测试，最后进行黑盒的功能测试</测试设计说明>
+	<评价准则>
+		<范围><div xmlns="http://www.w3.org/1999/xhtml">测试用例应该覆盖软件的所有功能的所有可能的输入类型</div>
+<div xmlns="http://www.w3.org/1999/xhtml">局限性是不能找出软件的所有缺陷</div></范围>
+		<尺度>合理的输出结果的类型，测试输出结果与预期输出结果相同则表示测试工作通过。</尺度>
+	</评价准则>
+</测试计划>
