@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.9" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《配置管理计划》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:---Q6QB-Qo:" language="zh-cn" productVersion="12.0.0" ?><?mso-application progid="InfoPath.Document"?><配置管理计划 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="美味饭店点餐系统" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>U.S.-BXIF-SCMP-v2.0</文件标识>
+			<当前版本>2.0</当前版本>
+			<作者>
+				<姓名>刘群辉</姓名>
+				<学号>0615235</学号>
+				<团队>U.S.</团队>
+			</作者>
+			<完成日期>2009-09-07</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 514px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 53px"/>
+<col style="WIDTH: 91px"/>
+<col style="WIDTH: 74px"/>
+<col style="WIDTH: 203px"/>
+<col style="WIDTH: 93px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 33px">
+<td>
+<div align="center"><font size="2" face="仿宋_GB2312">序号</font></div></td>
+<td>
+<div align="center"><font size="2" face="仿宋_GB2312">修订日期</font></div></td>
+<td>
+<div align="center"><font size="2" face="仿宋_GB2312">修订人</font></div></td>
+<td>
+<div align="center"><font size="2" face="仿宋_GB2312">修订内容</font></div></td>
+<td>
+<div align="center"><font size="2" face="仿宋_GB2312">修订后版本</font></div></td></tr>
+<tr style="MIN-HEIGHT: 31px">
+<td>
+<div><font size="2" face="仿宋_GB2312">1</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">2009/9/13</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">刘群辉</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">开发库</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">v1.1</font></div></td></tr>
+<tr style="MIN-HEIGHT: 34px">
+<td>
+<div><font size="2" face="仿宋_GB2312">2</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">2009/9/14</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">刘群辉</font></div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">受控库、开发库、产品库、</font></div>
+<div>变更控制、版本管理、备份策略</div></td>
+<td>
+<div><font size="2" face="仿宋_GB2312">v2.0</font></div></td></tr></tbody></table></div></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员>配置管理人员、质保组人员、项目经理</使用人员>
+			<编写目的>    编写此 SCM 是为保证项目开发过程中软件产品的完整性和一致性，保证在项目实施过程中有计划的实施配置管理，此计划将作为美味饭店点餐系统项目 SCM 活动的依据。     软件开发过程中都应该执行本计划中的有关规定，但可以根据各自的情况对本计划作适当的剪裁，以满足特定的配置管理需求。剪裁后的计划必须经总体组批准。</编写目的>
+			<背景>   本文档涉及配置管理活动中人员的安排、配置库和基线的建立、配置标识和控制以及配置库的备份。本配置计划只适用于美味饭店点餐系统。</背景>
+			<定义与缩写>
+				<术语>CMO</术语>
+				<解释>Configuration Management Officer （配置管理员）</解释>
+			<术语>SCM</术语><解释>Software Configuration Management ( 软件配置管理 )</解释><术语>SCMG</术语><解释>Software Configuration Management Group （软件配置管理组）</解释><术语>CCB</术语><解释>Configuration Control Board （软件配置控制委员会）</解释></定义与缩写>
+			<参考资料>
+				<条目>《 软件项目管理案例教程 》</条目><条目>《 配置管理计划模板 》</条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<软件配置管理>
+		<组织职责和接口>
+			<说明><div xmlns="http://www.w3.org/1999/xhtml">1.根据 《任务书》 中的角色分配，确定配置管理者， CCB 成员。 </div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.项目经理是配置管理的负责人。</div></说明>
+			<配置管理的角色和职责>
+									<角色>项目经理</角色>
+									<人员>刘大伟</人员>
+									<职责与工作范围><div xmlns="http://www.w3.org/1999/xhtml">1.制定和修改项目的组织结构和配置管理策略</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.批准、发布配置管理计划</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.决定项目其实基线和开发里程碑</div>
+<div xmlns="http://www.w3.org/1999/xhtml">4.接受并审阅CCB的报告</div></职责与工作范围>
+								</配置管理的角色和职责><配置管理的角色和职责>
+									<角色>CCB</角色>
+									<人员>配置组全员</人员>
+									<职责与工作范围><div xmlns="http://www.w3.org/1999/xhtml">1.制定变更控制流程</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.建立、更改基线设置，审核变更申请</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.根据配置管理员的报告决定相应对策</div></职责与工作范围>
+								</配置管理的角色和职责><配置管理的角色和职责>
+				<角色>CMO</角色>
+				<人员>刘群辉</人员>
+				<职责与工作范围><div xmlns="http://www.w3.org/1999/xhtml">1.软件配置管理工具的日常管理与维护 </div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.提交《配置管理计划》</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.各配置项的管理与维护</div>
+<div xmlns="http://www.w3.org/1999/xhtml">4.执行版本控制和变更控制方案</div>
+<div xmlns="http://www.w3.org/1999/xhtml">5.完成配置审计并提交报告</div>
+<div xmlns="http://www.w3.org/1999/xhtml">6.对开发人员进行培训</div>
+<div xmlns="http://www.w3.org/1999/xhtml">7.识别软件开发过程中存在的问题并拟就解决方案</div></职责与工作范围>
+			</配置管理的角色和职责>
+		</组织职责和接口>
+		<工具和环境>
+			<说明><div xmlns="http://www.w3.org/1999/xhtml">1、Subversion版本管理工具1.4</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、服务器</div></说明>
+			<受控库>
+				<结构><img xmlns="http://www.w3.org/1999/xhtml" style="WIDTH: 308px; HEIGHT: 610px" tabIndex="-1" src="msoinline/3f123035ef1e4f0f" xd:inline="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"/></结构>
+				<访问权限><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 526px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 131px"/>
+<col style="WIDTH: 131px"/>
+<col style="WIDTH: 132px"/>
+<col style="WIDTH: 132px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 23px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体">读</font></div></td>
+<td>
+<div><font size="2" face="宋体">写</font></div></td>
+<td>
+<div><font size="2" face="宋体">完全控制</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">CMO</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体"></font></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">项目组成员</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">项目经理</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 24px">
+<td>
+<div><font size="2" face="宋体">客户</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div></访问权限>
+			</受控库>
+			<开发库>
+				<结构><span style="FONT-SIZE: 10.5pt" xmlns="http://www.w3.org/1999/xhtml"> <img style="WIDTH: 270px; HEIGHT: 237px" tabIndex="-1" src="msoinline/8a1f7db3ee3748c2" xd:inline="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"/></span></结构>
+				<访问权限><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 526px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 131px"/>
+<col style="WIDTH: 131px"/>
+<col style="WIDTH: 132px"/>
+<col style="WIDTH: 132px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 23px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体">读</font></div></td>
+<td>
+<div><font size="2" face="宋体">写</font></div></td>
+<td>
+<div><font size="2" face="宋体">完全控制</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">CMO</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体"></font></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">项目组成员</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">项目经理</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 24px">
+<td>
+<div><font size="2" face="宋体">客户</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></访问权限>
+			</开发库>
+			<产品库>
+				<结构><span style="FONT-SIZE: 10.5pt" xmlns="http://www.w3.org/1999/xhtml"> <img style="WIDTH: 214px; HEIGHT: 96px" tabIndex="-1" src="msoinline/a50ea7025a06485c" xd:inline="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"/></span></结构>
+				<访问权限><div xmlns="http://www.w3.org/1999/xhtml">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 519px; BORDER-COLLAPSE: collapse; WORD-WRAP: break-word; TABLE-LAYOUT: fixed; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="msoUcTable" tabIndex="-1" border="1" borderColor="buttontext">
+<colgroup>
+<col style="WIDTH: 129px"/>
+<col style="WIDTH: 130px"/>
+<col style="WIDTH: 130px"/>
+<col style="WIDTH: 130px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 31px">
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体">读</font></div></td>
+<td>
+<div><font size="2" face="宋体">写</font></div></td>
+<td>
+<div><font size="2" face="宋体">完全控制</font></div></td></tr>
+<tr style="MIN-HEIGHT: 29px">
+<td>
+<div><font size="2" face="宋体">CMO</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体">√</font></font></div></td></tr>
+<tr style="MIN-HEIGHT: 32px">
+<td>
+<div><font size="2" face="宋体">项目组成员</font></div></td>
+<td>
+<div><font size="2" face="宋体"><font face="宋体"></font></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div></访问权限>
+			</产品库>
+		</工具和环境>
+	</软件配置管理>
+	<配置管理活动>
+		<说明><div xmlns="http://www.w3.org/1999/xhtml">命名规范：<br/>团队名-公司名-文档名缩写-v版本号<br/></div>
+<div xmlns="http://www.w3.org/1999/xhtml">如需求说明书命名为：U.S.-BXIF-SRS-v1.0<br/></div></说明>
+		<配置标识>
+			<文档标识方法>
+				<基线产品>
+					<文档>软件需求说明书</文档>
+					<命名>《美味饭店点餐系统软件需求说明书》</命名>
+					<编号>U.S.-BXIF-SRS-v1.0</编号>
+					<备注>SRS(Software Requirements Specification)</备注>
+				</基线产品>
+				<基线产品>
+									<文档>概要设计说明书</文档>
+									<命名>《美味饭店点餐系统概要设计文档》</命名>
+									<编号>U.S.-BXIF-ODS-v1.0</编号>
+									<备注>ODS(Outline Design Specification)</备注>
+								</基线产品><基线产品>
+									<文档>详细设计说明书</文档>
+									<命名>《美味饭店点餐系统详细设计文档》</命名>
+									<编号>U.S.-BXIF-DDS-v1.0</编号>
+									<备注>DDS(Details Design Specification)</备注>
+								</基线产品><基线产品>
+									<文档>源代码</文档>
+									<命名>源代码</命名>
+									<编号>U.S.-BXIF-SC-v1.0</编号>
+									<备注>SC(Source Code)</备注>
+								</基线产品><基线产品>
+									<文档>测试报告</文档>
+									<命名>《美味饭店点餐系统测试报告》</命名>
+									<编号>U.S.-BXIF-STR-v1.0</编号>
+									<备注>STR(Software Test Report)</备注>
+								</基线产品><非基线产品>
+					<文档>软件过程定义</文档>
+					<命名>《美味饭店点餐系统软件过程定义》</命名>
+					<编号>U.S.-BXIF-SPD-v1.0</编号>
+					<备注>SPD(Software Process Definition)</备注>
+				</非基线产品>
+			<非基线产品>
+									<文档>项目开发计划</文档>
+									<命名>《美味饭店点餐系统项目计划》</命名>
+									<编号>U.S.-BXIF-SDP-v1.0</编号>
+									<备注>SDP(Software Development Plan)</备注>
+								</非基线产品><非基线产品>
+									<文档>配置管理计划</文档>
+									<命名>《美味饭店点餐系统配置管理计划》</命名>
+									<编号>U.S.-BXIF-SCMP-v1.0</编号>
+									<备注>SCMP(Software Configuration Management Plan)</备注>
+								</非基线产品><非基线产品>
+									<文档>质量保证计划</文档>
+									<命名>《美味饭店点餐系统质保计划》</命名>
+									<编号>U.S.-BXIF-SQAP-v1.0</编号>
+									<备注>SQAP(Software Quality Assurance Plan)</备注>
+								</非基线产品><非基线产品>
+									<文档>测试计划</文档>
+									<命名>《美味饭店点餐系统测试计划》</命名>
+									<编号>U.S.-BXIF-STP-v1.0</编号>
+									<备注>STP(Software Test Plan)</备注>
+								</非基线产品><非基线产品>
+									<文档>需求变更申请</文档>
+									<命名>《美味饭店点餐系统需求变更申请》</命名>
+									<编号>U.S.-BXIF-DCA-v1.0</编号>
+									<备注>DCA(Demand Change Application)</备注>
+								</非基线产品><非基线产品>
+									<文档>项目变更申请</文档>
+									<命名>《美味饭店点餐系统项目变更申请》</命名>
+									<编号>U.S.-BXIF-PCA-v1.0</编号>
+									<备注>PCA(Project Change Application)</备注>
+								</非基线产品><非基线产品>
+									<文档>评审报告</文档>
+									<命名>《美味饭店点餐系统定期评审报告》</命名>
+									<编号>U.S.-BXIF-AR-v1.0</编号>
+									<备注>AR(Appraisal Report)</备注>
+								</非基线产品><非基线产品>
+									<文档>项目进展报告</文档>
+									<命名>《美味饭店点餐系统项目进展报告》</命名>
+									<编号>U.S.-BXIF-PPR-v1.0</编号>
+									<备注>PPR(Project Progress Report)</备注>
+								</非基线产品><非基线产品>
+									<文档>项目总结</文档>
+									<命名>《美味饭店点餐系统项目总结》</命名>
+									<编号>U.S.-BXIF-PS-v1.0</编号>
+									<备注>PS(Project Summary)</备注>
+								</非基线产品></文档标识方法>
+			<代码标识方法><div xmlns="http://www.w3.org/1999/xhtml">A． 编译日期可以作为每个交付模块标识的一部分；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">B． 在构造模块源代码的顺序行号时，应使它适合于对模块作进一步子修改。</div></代码标识方法>
+			<项目基线>
+				<阶段>
+					<阶段点>需求分析</阶段点>
+					<基线>
+						<基线名称>需求基线</基线名称>
+						<基线标识></基线标识>
+						<包含内容>
+							<产品名称>《美味饭店点餐系统软件需求说明书》</产品名称>
+							<入库时间>2009-09-24</入库时间>
+						</包含内容>
+						<预计基线建立时间>2009-09-18</预计基线建立时间>
+					</基线>
+				</阶段>
+			<阶段>
+									<阶段点>软件设计</阶段点>
+									<基线>
+										<基线名称>设计基线</基线名称>
+										<基线标识></基线标识>
+										<包含内容>
+											<产品名称>《美味饭店点餐系统概要设计文档》</产品名称>
+											<入库时间>2009-09-25</入库时间>
+										</包含内容>
+										<包含内容>
+									<产品名称>《美味饭店点餐系统详细设计文档》</产品名称>
+									<入库时间>2009-09-29</入库时间>
+								</包含内容><预计基线建立时间>2009-09-25</预计基线建立时间>
+									</基线>
+								</阶段><阶段>
+									<阶段点>软件编写</阶段点>
+									<基线>
+										<基线名称>编写基线</基线名称>
+										<基线标识></基线标识>
+										<包含内容>
+											<产品名称>源代码</产品名称>
+											<入库时间>2009-12-14</入库时间>
+										</包含内容>
+										<预计基线建立时间>2009-12-14</预计基线建立时间>
+									</基线>
+								</阶段><阶段>
+									<阶段点>测试</阶段点>
+									<基线>
+										<基线名称>测试基线</基线名称>
+										<基线标识></基线标识>
+										<包含内容>
+											<产品名称>测试报告</产品名称>
+											<入库时间>2009-12-14</入库时间>
+										</包含内容>
+										<预计基线建立时间>2009-12-14</预计基线建立时间>
+									</基线>
+								</阶段></项目基线>
+			<配置项的版本管理>所有已入库的配置项，其后续修改都需先从配置库检出，再进行修改，修改完成后填写更新记录、更改版本号，然后再提交到配置库。</配置项的版本管理>
+		</配置标识>
+		<配置和变更控制>
+			<变更请求的处理和审批>在项目开发过程中所产生的工作产品的变更，遵循配置管理中变更处理和审批流程。开发过程中所产生的各种记录、报告只要按照配置管理的规范标识、命名，便无需经过评审和批准即可纳入受控库。</变更请求的处理和审批>
+			<变更控制委员会>变更控制委员(SCCB)会由项目经理刘大伟、配置管理员刘群辉、质保组组长董秀丽3名成员组成，负责审批项目的变更。</变更控制委员会>
+		</配置和变更控制>
+		<配置状态统计>
+			<项目介质存储和发布进程><div xmlns="http://www.w3.org/1999/xhtml">备份策略：每天对配置库做增量备份，每周做全备份。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">备份介质：硬盘</div>
+<div xmlns="http://www.w3.org/1999/xhtml">备份人：配置管理员</div>
+<div xmlns="http://www.w3.org/1999/xhtml">发布进程：所有配置项一旦更新了版本及马上入库</div></项目介质存储和发布进程>
+			<报告和审核>每个项目成员在检入文档前，需要向配置管理员报告，由配置管理员检查其文档的规范性，如符合规范，即可入库。</报告和审核>
+		</配置状态统计>
+	</配置管理活动>
+	<里程碑>
+		<里程碑名称>立项</里程碑名称>
+		<提交工作产品>《合同书》</提交工作产品>
+		<提交人>刘大伟</提交人>
+		<提交时间>2009-09-12</提交时间>
+	</里程碑>
+	<里程碑>
+									<里程碑名称>立项</里程碑名称>
+									<提交工作产品>《任务书》</提交工作产品>
+									<提交人>刘大伟</提交人>
+									<提交时间>2009-09-12</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>需求分析</里程碑名称>
+									<提交工作产品>《软件需求说明书》</提交工作产品>
+									<提交人>陆鹏辰</提交人>
+									<提交时间>2009-09-24</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>设计</里程碑名称>
+									<提交工作产品>《详细设计文档》</提交工作产品>
+									<提交人>吴敏</提交人>
+									<提交时间>2009-09-29</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>实现</里程碑名称>
+									<提交工作产品>源代码</提交工作产品>
+									<提交人>穆瑞彬</提交人>
+									<提交时间>2009-12-14</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>测试</里程碑名称>
+									<提交工作产品>《测试报告》</提交工作产品>
+									<提交人>张达</提交人>
+									<提交时间>2009-12-14</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>验收</里程碑名称>
+									<提交工作产品>《验收报告》</提交工作产品>
+									<提交人>刘大伟</提交人>
+									<提交时间>2009-12-29</提交时间>
+								</里程碑><里程碑>
+									<里程碑名称>验收</里程碑名称>
+									<提交工作产品>《项目总结》</提交工作产品>
+									<提交人>全员</提交人>
+									<提交时间>2009-12-31</提交时间>
+								</里程碑><培训和资源>先由配置管理员刘群辉自行学习SVN的使用方法及其他配置管理相关知识，然后教给团队其他成员SVN的基本使用方法。</培训和资源>
+	<分包商和厂商软件控制>无</分包商和厂商软件控制>
+</配置管理计划>
